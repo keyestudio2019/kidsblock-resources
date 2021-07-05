@@ -1,0 +1,24 @@
+const ks_servo = formatMessage => ({
+    name: 'ks_servo',
+    extensionId: 'ks_servo',
+    version: '1.0.0',
+    type: 'arduino',
+    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    author: 'kidsblock',
+    iconURL: `asset/servo.png`,
+    description: formatMessage({
+        id: 'ks_servo.description',
+        default: 'ks_servo drive module.',
+        description: 'Description of ks_servo'
+    }),
+    featured: true,
+    blocks: 'blocks.js',
+    generator: 'generator.js',
+    toolbox: 'toolbox.js',
+    msg: 'msg.js',
+    library: 'lib',
+    tags: ['actuator'],
+    helpLink: 'https://openblockcc.gitee.io/wiki/'
+});
+
+module.exports = ks_servo;

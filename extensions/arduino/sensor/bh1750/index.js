@@ -1,0 +1,24 @@
+const bh1750 = formatMessage => ({
+    name: 'Light intensity sensor BH1750',
+    extensionId: 'bh1750',
+    version: '1.0.0',
+    type: 'arduino',
+    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    author: 'xiuxian',
+    iconURL: `asset/bh1750.png`,
+    description: formatMessage({
+        id: 'bh1750.description',
+        default: 'bh1750 sensor module.',
+        description: 'Description of bh1750'
+    }),
+    featured: true,
+    blocks: 'blocks.js',
+    generator: 'generator.js',
+    toolbox: 'toolbox.js',
+    msg: 'msg.js',
+    library: 'lib',
+    tags: ['sensor'],
+    helpLink: 'https://openblockcc.gitee.io/wiki/'
+});
+
+module.exports = bh1750;
