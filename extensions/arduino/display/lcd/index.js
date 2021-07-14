@@ -1,13 +1,13 @@
 const lcd = formatMessage => ({
     name: formatMessage({
         id: 'lcd.name',
-        default: '1602 LCD'
+        default: 'LCD1602 IIC'
     }),
     extensionId: 'lcd',
     version: '1.0.0',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoMini', 'arduinoLeonardo',
         'arduinoMega2560', 'arduinoEsp8266', 'arduinoEsp32'],
-    author: 'ArthurZheng',
+    author: 'kidsblock',
     iconURL: `asset/lcd.png`,
     description: formatMessage({
         id: 'lcd.description',
@@ -20,7 +20,7 @@ const lcd = formatMessage => ({
     msg: 'msg.js',
     library: 'lib',
     tags: ['display'],
-    helpLink: 'https://openblockcc.gitee.io/wiki/main'
+    //helpLink: 'https://openblockcc.gitee.io/wiki/main'
 });
 
 module.exports = lcd;

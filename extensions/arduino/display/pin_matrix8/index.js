@@ -1,15 +1,15 @@
-const four_tube = formatMessage => ({
-    name: 'Four Digital Tube TM1650',
-    extensionId: 'four_tube',
+const pin_matrix = formatMessage => ({
+    name: 'Matrix 8*8',
+    extensionId: 'pin_matrix',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'xiuxian',
     iconURL: `asset/Four_Digital_Tube.png`,
     description: formatMessage({
-        id: 'four_tube.description',
+        id: 'pin_matrix.description',
         default: 'Four Digital Tube module.',
-        description: 'Description of four_tube'
+        description: 'Description of pin_matrix'
     }),
     featured: true,
     blocks: 'blocks.js',
@@ -21,4 +21,4 @@ const four_tube = formatMessage => ({
     helpLink: 'https://openblockcc.gitee.io/wiki/'
 });
 
-module.exports = four_tube;
+module.exports = pin_matrix;

@@ -1,5 +1,5 @@
 const unoPlus = formatMessage => ({
-    name: 'Uno Plus',
+    name: 'Plus',
     extensionId: 'unoPlus',
     version: '1.0.0',
     supportDevice: ['unoPlus_arduinoUno'],

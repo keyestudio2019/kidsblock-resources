@@ -2,7 +2,7 @@
 /* eslint-disable require-jsdoc */
 function addMsg (Blockly) {
     Object.assign(Blockly.ScratchMsgs.locales.en, {
-        LCD_CATEGORY: '1602 LCD',
+        LCD_CATEGORY: 'LCD1602 IIC',
         LCD_INIT: 'init lcd I2C address %1',
         LCD_SETCURSORPOSITION: 'set lcd cursor position x: %1 y: %2',
         LCD_PRINT: 'lcd print %1',
@@ -17,7 +17,7 @@ function addMsg (Blockly) {
         LCD_STYLE_NOBLINK: 'no-blink'
     });
     Object.assign(Blockly.ScratchMsgs.locales['zh-cn'], {
-        LCD_CATEGORY: '1602 LCD',
+        LCD_CATEGORY: 'LCD1602 IIC',
         LCD_INIT: '初始化 lcd I2C 地址 %1',
         LCD_SETCURSORPOSITION: 'set lcd 光标位置 x: %1 y: %2',
         LCD_PRINT: 'lcd 打印 %1',

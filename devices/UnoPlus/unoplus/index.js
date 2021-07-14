@@ -1,5 +1,5 @@
 const unoPlus = formatMessage => ({
-    name: 'Uno Plus',
+    name: 'Plus',
     deviceId: 'unoPlus_arduinoUno',
     manufactor: 'keyes',
     leanMore: 'https://www.keyestudio.com/products/2020-new-keyestudio-plus-development-board-with-type-c-interface-usb-cable-compatible-with-arduino-uno-r3',
