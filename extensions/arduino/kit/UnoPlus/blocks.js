@@ -3,6 +3,8 @@
 /* eslint-disable require-jsdoc */
 function addBlocks (Blockly) {
     const color = '#FF4500';
+    const color2 = '#41be8a';
+    const color3 = '#573e00';
     const secondaryColour = '#CD5C5C';
     //变量
     Blockly.Blocks.KS_variables_declare = {
@@ -50,7 +52,7 @@ function addBlocks (Blockly) {
                 colour:color,
                 extensions: ['output_number']
             });
-        }     
+        }
     };
     //变量set
     Blockly.Blocks.KS_variables_set = {
@@ -95,7 +97,90 @@ function addBlocks (Blockly) {
             });
         }     
     };
+
+    //字符串变量set
+    Blockly.Blocks.KS_variables_stringSet = {
+        init: function () {
+            this.jsonInit({
+                message0: Blockly.Msg.KS_variables_setString,
+                args0: [
+                    {
+                        type: 'input_value',
+                        name: 'VAR'
+                    },
+                    {
+                        type: 'input_value',
+                        name: 'VALUE'
+                    }  
+                ],
+                "tooltip": "设置字符串变量",
+                colour:color,
+                extensions: ['shape_statement']
+            });
+        }     
+    };
+
+    //字符
+    Blockly.Blocks.KS_CHAR = {
+        init: function () {
+            this.jsonInit({
+                message0: Blockly.Msg.KS_char,
+                args0: [
+                    {
+                        type: 'input_value',
+                        name: 'VAR'
+                    } 
+                ],
+                "tooltip": "获取变量",
+                colour:color2,
+                extensions: ['output_number']
+            });
+        }     
+    };
+
+    Blockly.Blocks.KS_STRING = {
+        init: function () {
+            this.jsonInit({
+                message0: Blockly.Msg.KS_string,
+                args0: [
+                    {
+                        type: 'input_value',
+                        name: 'VAR'
+                    } 
+                ],
+                "tooltip": "获取变量",
+                colour:color2,
+                extensions: ['output_number']
+            });
+        }     
+    };
     
+    //logic
+    Blockly.Blocks.KS_judge = {
+        init: function () {
+            this.jsonInit({
+                message0: Blockly.Msg.KS_judge,
+                args0: [
+                    {
+                        type: 'input_value',
+                        name: 'VALUE1',
+                    }, 
+                    {
+                        type: 'field_dropdown',
+                        name: 'judge',
+                        options:[["==", "=="],["≠", "!="],[">", ">"],[">=", ">="],["<", "<"],["<=", "<="]]
+                    },
+                    {
+                        type: 'input_value',
+                        name: 'VALUE2',
+                    },    
+                ],
+                "tooltip": "逻辑比较",
+                colour:color3,
+                extensions: ['output_boolean']
+            });
+        }
+    };
     
 
 

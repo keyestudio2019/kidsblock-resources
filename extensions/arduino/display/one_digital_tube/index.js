@@ -5,7 +5,7 @@ const one_tube = formatMessage => ({
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'xiuxian',
-    iconURL: `asset/Four_Digital_Tube.png`,
+    iconURL: `asset/one_tube.png`,
     description: formatMessage({
         id: 'one_tube.description',
         default: 'Four Digital Tube module.',

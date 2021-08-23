@@ -5,7 +5,7 @@ const pin_matrix = formatMessage => ({
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'xiuxian',
-    iconURL: `asset/Four_Digital_Tube.png`,
+    iconURL: `asset/pin_matrix.png`,
     description: formatMessage({
         id: 'pin_matrix.description',
         default: 'Four Digital Tube module.',

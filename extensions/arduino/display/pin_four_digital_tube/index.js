@@ -5,7 +5,7 @@ const pin_four_tube = formatMessage => ({
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'xiuxian',
-    iconURL: `asset/Four_Digital_Tube.png`,
+    iconURL: `asset/pin_four_tube.png`,
     description: formatMessage({
         id: 'pin_four_tube.description',
         default: 'Four Digital Tube module.',

@@ -49,6 +49,54 @@ function addToolbox () {
         </value>
     </block>
 
+    <block type="KS_variables_stringSet">
+        <value name="VAR">
+            <shadow type="text">
+                <field name="TEXT">item</field>
+            </shadow>
+        </value>
+        <value name="VALUE">
+            <shadow type="math_number">
+                <field name="NUM">0</field>
+            </shadow>
+        </value>
+    </block>
+
+</category>
+
+<category name="%{BKY_KS_TEXT_LABEL}" id="KS_TEXT_LABEL" colour="#41be8a" secondaryColour="#42CCFF">
+    <block type="KS_CHAR">
+        <value name="VAR">
+            <shadow type="text">
+                <field name="TEXT">a</field>
+            </shadow>
+        </value>
+    </block>
+
+    <block type="KS_STRING">
+        <value name="VAR">
+            <shadow type="text">
+                <field name="TEXT">hello</field>
+            </shadow>
+        </value>
+    </block>
+    
+</category>
+
+<category name="%{BKY_KS_LOGIC_LABEL}" id="KS_LOGIC_LABEL" colour="#573e00" secondaryColour="#42CCFF">
+    <block type="KS_judge">
+        <value name="VALUE1">
+            <shadow type="math_number">
+                <field name="NUM">0</field>
+            </shadow>
+        </value>
+        <value name="VALUE2">
+            <shadow type="math_number">
+                <field name="NUM">0</field>
+            </shadow>
+        </value>
+    </block>
+    
 </category>
 `;
 }

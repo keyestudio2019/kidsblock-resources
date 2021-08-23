@@ -8,6 +8,7 @@ function addMsg (Blockly) {
         KS_variables_set:'Set %1 variable by %2',
         KS_variables_change:'Change %1 variable mode %2',
         KS_variables_value: 'variable %1',
+        KS_variables_setString:'Set %1 String variable by %2',
         KS_global:'Global',
         KS_local:'Local',
         KS_MATH_INT: 'int',
@@ -22,6 +23,13 @@ function addMsg (Blockly) {
         KS_MATH_UNSIGNED_LONG: 'unsigned long',
         KS_MATH_UNSIGNED_CHAR: 'unsigned char',
         KS_MATH_DOUBLE: 'double',
+
+        KS_TEXT_LABEL:'TEXT',
+        KS_char: 'char%1',
+        KS_string: 'string%1',
+
+        KS_LOGIC_LABEL:'logic',
+        KS_judge:'%1 %2 %3',
     });
     Object.assign(Blockly.ScratchMsgs.locales['zh-cn'], {
         KS_VARIABLE_LABEL:'变量类型',
@@ -30,6 +38,7 @@ function addMsg (Blockly) {
         KS_variables_set:'设置 %1 变量 为 %2',
         KS_variables_change:'设置 %1 变量 模式 %2',
         KS_variables_value: '变量 %1',
+        KS_variables_setString:'设置 %1 字符串变量 为 %2',
         KS_global:'全局',
         KS_local:'局部',
         KS_MATH_INT: '整数',
@@ -44,6 +53,13 @@ function addMsg (Blockly) {
         KS_MATH_UNSIGNED_LONG: '无符号长整数',
         KS_MATH_UNSIGNED_CHAR: '无符号字符',
         KS_MATH_DOUBLE: '双精度浮点数',
+
+        KS_TEXT_LABEL:'文本',
+        KS_char: '\'%1\'',
+        KS_string: '\"%1\"',
+
+        KS_LOGIC_LABEL:'逻辑',
+        KS_judge:'%1 %2 %3',
     });
     return Blockly;
 }

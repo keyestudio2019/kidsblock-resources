@@ -4,7 +4,7 @@
 function addGenerator (Blockly) {
     Blockly.Arduino.lm35_readTemperature = function (block) {
         const pin = block.getFieldValue('PIN');
-        return [`analogRead(${pin} * 0.488)`, Blockly.Arduino.ORDER_ATOMIC];
+        return [`analogRead(${pin}) * 0.488`, Blockly.Arduino.ORDER_ATOMIC];
     };
 
     return Blockly;
