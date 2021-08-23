@@ -1,10 +1,14 @@
 const TFT = formatMessage => ({
-    name: 'TFT screen',
+    name: formatMessage({
+        id: 'TFT',
+        default: 'TFT screen',
+        description: 'TFT screen'
+    }),
     extensionId: 'TFT',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/TFTscreen.png`,
     description: formatMessage({
         id: 'TFT.description',

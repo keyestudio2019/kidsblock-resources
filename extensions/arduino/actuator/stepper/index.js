@@ -1,5 +1,9 @@
 const ks_stepper = formatMessage => ({
-    name: 'Stepper',
+    name: formatMessage({
+        id: 'ks_stepper',
+        default: 'Stepper',
+        description: 'Stepper'
+    }),
     extensionId: 'ks_stepper',
     version: '1.0.0',
     type: 'arduino',
@@ -8,7 +12,7 @@ const ks_stepper = formatMessage => ({
     iconURL: `asset/ks_stepper.png`,
     description: formatMessage({
         id: 'ks_stepper.description',
-        default: 'ks_stepper drive module.',
+        default: 'Stepper driver',
         description: 'Description of ks_stepper'
     }),
     featured: true,

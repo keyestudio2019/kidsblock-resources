@@ -1,5 +1,9 @@
 const barometric_pressure = formatMessage => ({
-    name: 'Barometric Pressure',
+    name: formatMessage({
+        id: 'barometric_pressure',
+        default: 'Barometric Pressure',
+        description: 'Barometric Pressure'
+    }),
     extensionId: 'barometric_pressure',
     version: '1.0.0',
     type: 'arduino',
@@ -8,7 +12,7 @@ const barometric_pressure = formatMessage => ({
     iconURL: `asset/bp.png`,
     description: formatMessage({
         id: 'barometric_pressure.description',
-        default: 'barometric_pressure sensor module.',
+        default: 'BMP388 temperature and pressure sensor',
         description: 'Description of barometric_pressure'
     }),
     featured: true,

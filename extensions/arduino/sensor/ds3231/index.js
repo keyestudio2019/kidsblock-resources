@@ -1,5 +1,9 @@
 const ds3231 = formatMessage => ({
-    name: 'DS3231',
+    name: formatMessage({
+        id: 'ds3231',
+        default: 'DS3231',
+        description: 'DS3231'
+    }),
     extensionId: 'ds3231',
     version: '1.0.0',
     type: 'arduino',
@@ -8,7 +12,7 @@ const ds3231 = formatMessage => ({
     iconURL: `asset/ds3231.png`,
     description: formatMessage({
         id: 'ds3231.description',
-        default: 'ds3231 sensor module.',
+        default: 'DS3231 real time clock module',
         description: 'Description of ds3231'
     }),
     featured: true,

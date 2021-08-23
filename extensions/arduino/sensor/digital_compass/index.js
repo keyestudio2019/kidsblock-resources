@@ -1,5 +1,9 @@
 const digital_compass = formatMessage => ({
-    name: 'Digital Compass',
+    name: formatMessage({
+        id: 'digital_compass',
+        default: 'Digital Compass',
+        description: 'Digital Compass'
+    }),
     extensionId: 'digital_compass',
     version: '1.0.0',
     type: 'arduino',
@@ -8,7 +12,7 @@ const digital_compass = formatMessage => ({
     iconURL: `asset/HMC.png`,
     description: formatMessage({
         id: 'digital_compass.description',
-        default: 'digital_compass sensor module.',
+        default: 'HMC5883L 3-Axis Magnetic Electronic Compass Module',
         description: 'Description of digital_compass'
     }),
     featured: true,

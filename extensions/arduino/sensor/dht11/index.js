@@ -1,5 +1,9 @@
 const ks_dht11 = formatMessage => ({
-    name: 'ks_DHT11',
+    name: formatMessage({
+        id: 'ks_dht11',
+        default: 'DHT11',
+        description: 'DHT11'
+    }),
     extensionId: 'ks_dht11',
     version: '1.0.0',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560', 'arduinoEsp32'],
@@ -7,7 +11,7 @@ const ks_dht11 = formatMessage => ({
     iconURL: `asset/DHT11.png`,
     description: formatMessage({
         id: 'ks_dht11.description',
-        default: 'DHT11 Temperature and humidity sensor module.',
+        default: 'DHT11 temperature and humidity sensor',
         description: 'Description of dht11'
     }),
     featured: true,

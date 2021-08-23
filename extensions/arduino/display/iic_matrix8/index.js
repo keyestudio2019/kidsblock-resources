@@ -1,14 +1,18 @@
 const iic_matrix = formatMessage => ({
-    name: 'Matrix 8*8 HT16K33',
+    name: formatMessage({
+        id: 'iic_matrix',
+        default: 'Matrix 8*8 HT16K33',
+        description: 'Matrix 8*8 HT16K33'
+    }),
     extensionId: 'iic_matrix',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/iic_matrix.png`,
     description: formatMessage({
         id: 'iic_matrix.description',
-        default: 'matrix iic HT16K33',
+        default: 'Matrix 8*8 HT16K33 IIC',
         description: 'Description of iic_matrix'
     }),
     featured: true,

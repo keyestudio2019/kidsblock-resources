@@ -1,14 +1,18 @@
 const one_tube = formatMessage => ({
-    name: 'One Digital Tube',
+    name: formatMessage({
+        id: 'one_tube',
+        default: 'One Digital Tube',
+        description: 'One Digital Tube'
+    }),
     extensionId: 'one_tube',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/one_tube.png`,
     description: formatMessage({
         id: 'one_tube.description',
-        default: 'Four Digital Tube module.',
+        default: 'One Digital Tube module.',
         description: 'Description of one_tube'
     }),
     featured: true,

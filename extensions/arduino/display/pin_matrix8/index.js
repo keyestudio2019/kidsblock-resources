@@ -1,14 +1,18 @@
 const pin_matrix = formatMessage => ({
-    name: 'Matrix 8*8',
-    extensionId: 'pin_matrix',
+    name: formatMessage({
+        id: 'pin_matrixs',
+        default: 'Matrix 8*8',
+        description: 'Matrix 8*8'
+    }),
+    extensionId: 'pin_matrixs',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/pin_matrix.png`,
     description: formatMessage({
         id: 'pin_matrix.description',
-        default: 'Four Digital Tube module.',
+        default: 'Matrix 8*8, pin connection',
         description: 'Description of pin_matrix'
     }),
     featured: true,

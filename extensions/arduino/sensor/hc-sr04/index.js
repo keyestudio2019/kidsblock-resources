@@ -1,5 +1,9 @@
 const ks_hcSr04 = formatMessage => ({
-    name: 'ks_HC_SR04',
+    name: formatMessage({
+        id: 'ks_hc_sr04',
+        default: 'Ultrasonic',
+        description: 'Ultrasonic'
+    }),
     extensionId: 'ks_hc_sr04',
     version: '1.0.0',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560', 'arduinoEsp32'],
@@ -7,7 +11,7 @@ const ks_hcSr04 = formatMessage => ({
     iconURL: `asset/HC-SR04.png`,
     description: formatMessage({
         id: 'ks_hc-sr04.description',
-        default: 'HC-SR04 distance measurement module.',
+        default: 'HC-SR04 ultrasonic ranging sensor',
         description: 'Description of HC-SR04'
     }),
     featured: true,

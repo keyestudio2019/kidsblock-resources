@@ -1,14 +1,18 @@
 const pin_four_tube = formatMessage => ({
-    name: 'Four Digital Tube',
+    name: formatMessage({
+        id: 'pin_four_tube',
+        default: 'Four Digital Tube',
+        description: 'Four Digital Tube'
+    }),
     extensionId: 'pin_four_tube',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/pin_four_tube.png`,
     description: formatMessage({
         id: 'pin_four_tube.description',
-        default: 'Four Digital Tube module.',
+        default: '4 digit digital tube, pin connection',
         description: 'Description of pin_four_tube'
     }),
     featured: true,

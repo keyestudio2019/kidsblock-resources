@@ -1,14 +1,18 @@
 const mpu6050 = formatMessage => ({
-    name: 'MPU6050',
+    name: formatMessage({
+        id: 'mpu6050',
+        default: 'MPU6050',
+        description: 'MPU6050'
+    }),
     extensionId: 'mpu6050',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/mpu6050.png`,
     description: formatMessage({
         id: 'mpu6050.description',
-        default: 'mpu6050 sensor module.',
+        default: 'MPU6050 6 axis acceleration gyro sensor',
         description: 'Description of mpu6050'
     }),
     featured: true,

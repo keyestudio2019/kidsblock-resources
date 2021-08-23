@@ -1,6 +1,6 @@
 const remote = formatMessage => ({
     name: formatMessage({
-        id: 'remote.name',
+        id: 'remote',
         default: 'ir remote',
         description: 'Name of remote'
     }),
@@ -8,11 +8,11 @@ const remote = formatMessage => ({
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/ir_receiver_Sensor.png`,
     description: formatMessage({
         id: 'remote.description',
-        default: 'The infrared receiving',
+        default: 'Infrared receiving module',
         description: 'Description of ir remote'
     }),
     featured: true,

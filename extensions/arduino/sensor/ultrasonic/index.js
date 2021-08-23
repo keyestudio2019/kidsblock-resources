@@ -1,6 +1,6 @@
 const ultrasonic = formatMessage => ({
     name: formatMessage({
-        id: 'ultrasonic.name',
+        id: 'ultrasonic',
         default: 'Ultrasonic'
     }),
     extensionId: 'ultrasonic',
@@ -8,7 +8,7 @@ const ultrasonic = formatMessage => ({
     // supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoMini', 'arduinoLeonardo',
     //     'arduinoMega2560', 'arduinoEsp32', 'arduinoEsp8266'],
     supportDevice: [''],
-    author: 'Liang',
+    author: 'kidsblock',
     iconURL: `asset/ultrasonic.png`,
     description: formatMessage({
         id: 'ultrasonic.description',

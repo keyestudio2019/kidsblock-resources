@@ -1,5 +1,9 @@
 const keypad4_4 = formatMessage => ({
-    name: 'keypad4*4',
+    name: formatMessage({
+        id: 'keypad4*4',
+        default: 'keypad4*4',
+        description: 'keypad4*4'
+    }),
     extensionId: 'keypad4*4',
     version: '1.0.0',
     type: 'arduino',
@@ -8,7 +12,7 @@ const keypad4_4 = formatMessage => ({
     iconURL: `asset/keypad4.png`,
     description: formatMessage({
         id: 'keypad4_4.description',
-        default: 'keypad4*4 sensor module.',
+        default: '4*4 Key pad module',
         description: 'Description of keypad4*4'
     }),
     featured: true,

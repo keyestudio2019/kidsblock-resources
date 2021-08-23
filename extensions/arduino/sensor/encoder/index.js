@@ -1,5 +1,9 @@
 const ks_encoder = formatMessage => ({
-    name: 'Encoder',
+    name: formatMessage({
+        id: 'ks_encoder',
+        default: 'Encoder',
+        description: 'Encoder'
+    }),
     extensionId: 'ks_encoder',
     version: '1.0.0',
     type: 'arduino',
@@ -8,7 +12,7 @@ const ks_encoder = formatMessage => ({
     iconURL: `asset/encoder.png`,
     description: formatMessage({
         id: 'ks_encoder.description',
-        default: 'ks_encoder sensor module.',
+        default: 'Encoder module',
         description: 'Description of ks_encoder'
     }),
     featured: true,

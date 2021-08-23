@@ -1,14 +1,18 @@
 const t_18b20 = formatMessage => ({
-    name: 'Temp_18B20',
+    name: formatMessage({
+        id: 't_18b20',
+        default: 'Temperatue 18B20',
+        description: 'Temperatue 18B20'
+    }),
     extensionId: 't_18b20',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/t_18b20.png`,
     description: formatMessage({
         id: 't_18b20.description',
-        default: '18B20 Temperature sensor.',
+        default: '18b20 temperature sensor',
         description: 'Description of t_18b20'
     }),
     featured: true,

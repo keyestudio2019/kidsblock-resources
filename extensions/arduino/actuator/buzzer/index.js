@@ -1,14 +1,18 @@
 const ks_buzzer = formatMessage => ({
-    name: 'Passive buzzer',
+    name: formatMessage({
+        id: 'ks_buzzer',
+        default: 'Passive buzzer',
+        description: 'Passive buzzer'
+    }),
     extensionId: 'ks_buzzer',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/p_buzzer.png`,
     description: formatMessage({
         id: 'ks_buzzer.description',
-        default: 'ks_buzzer motor drive module.',
+        default: 'Passive buzzer',
         description: 'Description of ks_buzzer'
     }),
     featured: true,

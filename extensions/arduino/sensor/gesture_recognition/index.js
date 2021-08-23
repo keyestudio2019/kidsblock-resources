@@ -1,5 +1,9 @@
 const gesture_recognition = formatMessage => ({
-    name: 'Gesture Recognition',
+    name: formatMessage({
+        id: 'gesture_recognition',
+        default: 'Gesture Recognition',
+        description: 'Gesture Recognition'
+    }),
     extensionId: 'gesture_recognition',
     version: '1.0.0',
     type: 'arduino',

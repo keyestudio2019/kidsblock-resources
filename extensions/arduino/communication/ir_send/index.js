@@ -8,12 +8,12 @@ const IR_send = formatMessage => ({
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/ir_send.png`,
     description: formatMessage({
         id: 'IR_send.description',
-        default: 'The infrared receiving',
-        description: 'Description of ir IR_send'
+        default: 'Infrared emission module',
+        description: 'Infrared emission module'
     }),
     featured: true,
     blocks: 'blocks.js',

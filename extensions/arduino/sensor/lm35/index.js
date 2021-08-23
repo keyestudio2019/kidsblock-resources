@@ -1,14 +1,18 @@
 const lm35 = formatMessage => ({
-    name: 'Temp LM35',
+    name: formatMessage({
+        id: 'lm35',
+        default: 'Temperature LM35',
+        description: 'Temperature LM35'
+    }),
     extensionId: 'lm35',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/lm35.png`,
     description: formatMessage({
         id: 'lm35.description',
-        default: 'lm35 sensor module.',
+        default: 'Temperature LM35',
         description: 'Description of lm35'
     }),
     featured: true,

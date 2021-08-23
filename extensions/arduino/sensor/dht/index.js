@@ -1,6 +1,6 @@
 const dht = formatMessage => ({
     name: formatMessage({
-        id: 'dht.name',
+        id: 'dht',
         default: 'DHT sensor'
     }),
     extensionId: 'dht',

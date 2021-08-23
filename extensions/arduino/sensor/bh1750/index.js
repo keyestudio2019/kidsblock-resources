@@ -1,5 +1,9 @@
 const bh1750 = formatMessage => ({
-    name: 'Light intensity sensor BH1750',
+    name: formatMessage({
+        id: 'bh1750',
+        default: 'Light intensity sensor BH1750',
+        description: 'Light intensity sensor BH1750'
+    }),
     extensionId: 'bh1750',
     version: '1.0.0',
     type: 'arduino',
@@ -8,7 +12,7 @@ const bh1750 = formatMessage => ({
     iconURL: `asset/bh1750.png`,
     description: formatMessage({
         id: 'bh1750.description',
-        default: 'bh1750 sensor module.',
+        default: 'BH1750 Ambient Light Sensor',
         description: 'Description of bh1750'
     }),
     featured: true,

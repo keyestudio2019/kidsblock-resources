@@ -1,14 +1,18 @@
 const motor130 = formatMessage => ({
-    name: 'DC Motor',
+    name: formatMessage({
+        id: 'motor130',
+        default: 'DC Motor',
+        description: 'DC Motor'
+    }),
     extensionId: 'motor130',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/motor130.png`,
     description: formatMessage({
         id: 'motor130.description',
-        default: 'Double color lamp',
+        default: 'Driving DC motor',
         description: 'Description of motor130'
     }),
     featured: true,

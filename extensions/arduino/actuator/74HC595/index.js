@@ -1,5 +1,9 @@
 const ks_74hc595 = formatMessage => ({
-    name: '74HC595',
+    name: formatMessage({
+        id: 'ks_74hc595',
+        default: '74HC595',
+        description: 'Description of ks_74hc595'
+    }),
     extensionId: 'ks_74hc595',
     version: '1.0.0',
     type: 'arduino',
@@ -8,7 +12,7 @@ const ks_74hc595 = formatMessage => ({
     iconURL: `asset/ks_74hc595.png`,
     description: formatMessage({
         id: 'ks_74hc595.description',
-        default: 'ks_74hc595 drive module.',
+        default: '74HC595 is an 8 bit displacement cache with serial input and parallel output',
         description: 'Description of ks_74hc595'
     }),
     featured: true,

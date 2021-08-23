@@ -1,5 +1,9 @@
 const l298n = formatMessage => ({
-    name: 'L298N',
+    name: formatMessage({
+        id: 'l298n',
+        default: 'L298N',
+        description: 'L298N'
+    }),
     extensionId: 'l298n',
     version: '1.0.0',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoMini', 'arduinoLeonardo',

@@ -1,5 +1,9 @@
 const ks_servo = formatMessage => ({
-    name: 'ks_servo',
+    name: formatMessage({
+        id: 'ks_servo',
+        default: 'Servo',
+        description: 'Servo'
+    }),
     extensionId: 'ks_servo',
     version: '1.0.0',
     type: 'arduino',
@@ -8,7 +12,7 @@ const ks_servo = formatMessage => ({
     iconURL: `asset/servo.png`,
     description: formatMessage({
         id: 'ks_servo.description',
-        default: 'ks_servo drive module.',
+        default: 'Servo driver',
         description: 'Description of ks_servo'
     }),
     featured: true,

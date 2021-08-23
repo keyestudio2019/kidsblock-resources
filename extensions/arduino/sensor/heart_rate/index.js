@@ -1,5 +1,9 @@
 const heart_rate = formatMessage => ({
-    name: 'Heart Rate',
+    name: formatMessage({
+        id: 'heart_rate',
+        default: 'Heart Rate',
+        description: 'Heart Rate'
+    }),
     extensionId: 'heart_rate',
     version: '1.0.0',
     type: 'arduino',
@@ -9,7 +13,7 @@ const heart_rate = formatMessage => ({
     description: formatMessage({
         id: 'heart_rate.description',
         default: 'heart_rate sensor module.',
-        description: 'Description of heart_rate'
+        description: 'Heart Rate sensor pulse sensor'
     }),
     featured: true,
     blocks: 'blocks.js',

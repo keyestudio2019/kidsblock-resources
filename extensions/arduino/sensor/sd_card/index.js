@@ -1,14 +1,18 @@
 const sd_card = formatMessage => ({
-    name: 'SD card',
+    name: formatMessage({
+        id: 'sd_card',
+        default: 'SD card',
+        description: 'SD card'
+    }),
     extensionId: 'sd_card',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
-    author: 'xiuxian',
+    author: 'kidsblock',
     iconURL: `asset/sd_card.png`,
     description: formatMessage({
         id: 'sd_card.description',
-        default: 'sd_card sensor module.',
+        default: 'SD card, used to increase memory',
         description: 'Description of sd_card'
     }),
     featured: true,

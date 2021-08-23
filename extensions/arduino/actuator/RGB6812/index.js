@@ -1,14 +1,18 @@
 const rgb6812 = formatMessage => ({
-    name: 'NeoPixel RGB',
+    name: formatMessage({
+        id: 'rgb6812',
+        default: 'NeoPixel RGB',
+        description: 'NeoPixel RGB'
+    }),
     extensionId: 'rgb6812',
     version: '1.0.0',
     type: 'arduino',
     supportDevice: [''],
-    author: 'Liang',
+    author: 'kidsblock',
     iconURL: `asset/rgb6812.png`,
     description: formatMessage({
         id: 'rgb6812.description',
-        default: 'rgb6812 motor drive module.',
+        default: 'NeoPixel driver',
         description: 'Description of rgb6812'
     }),
     featured: true,
