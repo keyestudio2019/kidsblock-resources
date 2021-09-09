@@ -7,12 +7,12 @@ function addToolbox () {
     <block type="esp8266_wifi01" id="esp8266_wifi01">
         <value name="SSID">
             <shadow type="text">
-                <field name="TEXT">192</field>
+                <field name="TEXT">ChinaNet-2.4G-0DF0</field>
             </shadow>
         </value>
         <value name="PASSWD">
             <shadow type="text">
-                <field name="TEXT">12345</field>
+                <field name="TEXT">ChinaNet@233</field>
             </shadow>
         </value>
     </block>

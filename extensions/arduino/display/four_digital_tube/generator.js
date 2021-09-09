@@ -23,8 +23,8 @@ function addGenerator (Blockly) {
         const state = this.getFieldValue('state');
         Blockly.Arduino.includes_.include_tm1650_init = `#include <Wire.h>\n#include <TM1650.h>\n`;
         Blockly.Arduino.definitions_[`tm1650_var`] = `TM1650 tm_4display;\n`;
-        Blockly.Arduino.setups_['tm1650_setup'] = 'Wire.begin();\ntm_4display.init();\n';
-        return 'tm_4display.'+state+'\n';
+        Blockly.Arduino.setups_['tm1650_setup'] = 'Wire.begin();\n  tm_4display.init();\n';
+        return ''+state+'\n';
     };
 
 

@@ -53,7 +53,6 @@ function addBlocks (Blockly) {
                             ['←', 'matrix_right'],
                             ['→', 'matrix_left'],
                             ['STOP', 'matrix_stop'],
-                            ['clear', 'matrix_clear'],
                             ],
                     }
                 ],
@@ -105,6 +104,25 @@ function addBlocks (Blockly) {
             this.jsonInit({
                 message0: '%1',
                 message1: Blockly.Msg.MATRIX_IIC_REFRESH,
+                args0: [
+                    {
+                        type: 'field_image',
+                        src: dhtIconUrl,
+                        width: 50,
+                        height: 27
+                    }
+                ],
+                colour: color,
+                extensions: ['shape_statement']
+            });
+        }
+    };
+
+    Blockly.Blocks.matrix_iic_clear = {
+        init: function () {
+            this.jsonInit({
+                message0: '%1',
+                message1: Blockly.Msg.MATRIX_IIC_CLEAR,
                 args0: [
                     {
                         type: 'field_image',

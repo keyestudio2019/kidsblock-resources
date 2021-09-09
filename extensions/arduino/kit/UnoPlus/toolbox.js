@@ -80,24 +80,17 @@ function addToolbox () {
             </shadow>
         </value>
     </block>
-    
-</category>
 
-<category name="%{BKY_KS_LOGIC_LABEL}" id="KS_LOGIC_LABEL" colour="#573e00" secondaryColour="#42CCFF">
-    <block type="KS_judge">
-        <value name="VALUE1">
-            <shadow type="math_number">
-                <field name="NUM">0</field>
-            </shadow>
-        </value>
-        <value name="VALUE2">
-            <shadow type="math_number">
-                <field name="NUM">0</field>
+    <block type="KS_data">
+        <value name="VAR">
+            <shadow type="text">
+                <field name="TEXT">123</field>
             </shadow>
         </value>
     </block>
     
 </category>
+
 `;
 }
 

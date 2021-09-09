@@ -33,6 +33,10 @@ function addToolbox () {
 
     </block>
 
+    <block type="matrix_iic_clear" id="matrix_iic_clear">
+
+    </block>
+
 </category>`;
 }
 

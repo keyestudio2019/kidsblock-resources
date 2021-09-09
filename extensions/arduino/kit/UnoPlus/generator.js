@@ -88,6 +88,14 @@ function addGenerator (Blockly) {
         name = name.replace(/\"/g,'');
         return [`\"${name}\"`, Blockly.Arduino.ORDER_ATOMIC];
     };
+
+    Blockly.Arduino.KS_data = function() {
+        var name = Blockly.Arduino.valueToCode(this, 'VAR',Blockly.Arduino.ORDER_ATOMIC) ||' ' ;
+        name = name.replace(/\"/g,'');
+        code = name;
+        return [code, Blockly.Arduino.ORDER_ATOMIC];
+        //return [code, Blockly.Arduino.ORDER_NONE];
+    };
    
     //逻辑比较
     Blockly.Arduino.KS_judge = function() {

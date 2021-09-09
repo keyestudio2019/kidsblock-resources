@@ -27,6 +27,7 @@ function addMsg (Blockly) {
         KS_TEXT_LABEL:'TEXT',
         KS_char: 'char%1',
         KS_string: 'string%1',
+        KS_data: '%1',
 
         KS_LOGIC_LABEL:'logic',
         KS_judge:'%1 %2 %3',
@@ -57,6 +58,7 @@ function addMsg (Blockly) {
         KS_TEXT_LABEL:'文本',
         KS_char: '\'%1\'',
         KS_string: '\"%1\"',
+        KS_data: '%1',
 
         KS_LOGIC_LABEL:'逻辑',
         KS_judge:'%1 %2 %3',

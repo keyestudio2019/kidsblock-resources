@@ -154,6 +154,23 @@ function addBlocks (Blockly) {
             });
         }     
     };
+
+    Blockly.Blocks.KS_data = {
+        init: function () {
+            this.jsonInit({
+                message0: Blockly.Msg.KS_data,
+                args0: [
+                    {
+                        type: 'input_value',
+                        name: 'VAR'
+                    } 
+                ],
+                "tooltip": "获取变量",
+                colour:color2,
+                extensions: ['output_number']
+            });
+        }
+    };
     
     //logic
     Blockly.Blocks.KS_judge = {
