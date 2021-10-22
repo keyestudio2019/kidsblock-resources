@@ -29,6 +29,7 @@ function addGenerator (Blockly) {
         return code;
     };
 
+
     Blockly.Arduino.ds3231_read = function (block) {
         const unit = this.getFieldValue('unit');
         return [`${unit}`, Blockly.Arduino.ORDER_ATOMIC];

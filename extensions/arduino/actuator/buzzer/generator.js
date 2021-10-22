@@ -33,7 +33,7 @@ function addGenerator (Blockly) {
         const pin = block.getFieldValue('PIN');
 
         Blockly.Arduino.setups_[`buzzer_${pin}`] = 'pinMode('+pin+', OUTPUT);\n';
-        return 'notone('+pin+');\n';
+        return 'noTone('+pin+');\n';
     };
 
     return Blockly;
