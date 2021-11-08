@@ -8,7 +8,7 @@ function addGenerator (Blockly) {
         const tx = Blockly.Arduino.valueToCode(block, 'TX', Blockly.Arduino.ORDER_ATOMIC);
         const baudrate = this.getFieldValue('BAUD');
 
-        Blockly.Arduino.includes_.dht_init = `#include <SoftwareSerial.h>`;
+        Blockly.Arduino.includes_.softwareSerial_begin = `#include <SoftwareSerial.h>`;
         Blockly.Arduino.definitions_[`softwareSerial_begin${no}`] = `SoftwareSerial softwareSerial_${no}(${rx}, ${tx});`;
         return `softwareSerial_${no}.begin(${baudrate});\n`;
     };
@@ -16,7 +16,13 @@ function addGenerator (Blockly) {
     Blockly.Arduino.softwareSerial_print = function (block) {
         const no = Blockly.Arduino.valueToCode(block, 'NO', Blockly.Arduino.ORDER_ATOMIC);
         const data = Blockly.Arduino.valueToCode(block, 'DATA', Blockly.Arduino.ORDER_ATOMIC);
-        return `softwareSerial_${no}.println(${data});\n`;
+        const eol = this.getFieldValue('EOL');
+
+        if (eol === '0') {
+
+            return `softwareSerial_${no}.println(${data});\n`;
+        }
+        return `softwareSerial_${no}.print(${data});\n`;
     };
 
     Blockly.Arduino.softwareSerial_available = function (block) {

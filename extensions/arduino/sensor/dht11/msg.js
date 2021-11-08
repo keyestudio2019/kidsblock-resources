@@ -5,7 +5,7 @@ function addMsg (Blockly) {
         DHT_CATEGORY: 'Temperature and humidity',
         DHT_INIT: 'init DHT pin %1 mode %2',
         DHT_READ_TEMPERATURE: 'DHT read temperature %1',
-        DHT_READ_HUMIDITY: 'DHT %1 read humidity'
+        DHT_READ_HUMIDITY: 'DHT read humidity'
     });
     Object.assign(Blockly.ScratchMsgs.locales['zh-cn'], {
         DHT_CATEGORY: '温湿度传感器',

@@ -2,12 +2,11 @@ const ironKit = formatMessage => ({
     name: 'IronKit',
     deviceId: 'ironKit_arduinoUno',
     manufactor: 'YQC Robot',
-    leanMore: 'https://item.taobao.com/item.htm?id=628120335101',
+    learnMore: 'https://item.taobao.com/item.htm?id=628120335101',
     iconURL: 'asset/ironKit.png',
     description: formatMessage({
         id: 'ironKit.description',
-        default: 'Yiqichuang iron kit robot.',
-        description: 'Description for the YQC iron kit device'
+        default: 'Yiqichuang iron kit robot.'
     }),
     disabled: false,
     bluetoothRequired: false,
@@ -20,9 +19,10 @@ const ironKit = formatMessage => ({
     connectionIconURL: 'asset/ironKit-illustration.svg',
     connectionSmallIconURL: 'asset/ironKit-small.svg',
     programMode: ['realtime', 'upload'],
+    defaultProgramMode: 'upload',
     programLanguage: ['block', 'cpp'],
-    tags: ['arduino'],
-    deviceExtensions: ['ironKit'],
+    tags: ['arduino', 'kit'],
+    deviceExtensions: ['ironKit', 'apds9960'],
     deviceExtensionsCompatible: 'arduinoUno',
     helpLink: 'https://www.sxyiqichuang.com/'
 });
