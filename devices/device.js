@@ -1,9 +1,8 @@
 module.exports = [
     // Buid-in device
-    'unoPlus_arduinoUno',
-    //'arduinoUno',
-    'arduinoNano',
-    //'arduinoMini',
+    'arduinoUno',
+    'arduinoNano_arduinoUno',
+    //'arduinoMini_arduinoUno',
     //'arduinoLeonardo',
     'arduinoMega2560',
     'arduinoEsp32',
@@ -14,5 +13,5 @@ module.exports = [
     // Third party
     //'ironKit_arduinoUno',
     //'QDPRobot_arduinoUnoUltra',
-    //'QDPRobotC02_arduinoEsp32',
+    //'QDPRobotC02_arduinoEsp32'
 ];
