@@ -7,7 +7,7 @@ const four_tube = formatMessage => ({
     extensionId: 'four_tube',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'kidsblock',
     iconURL: `asset/Four_Digital_Tube.png`,
     description: formatMessage({

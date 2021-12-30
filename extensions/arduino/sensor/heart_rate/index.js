@@ -7,7 +7,7 @@ const heart_rate = formatMessage => ({
     extensionId: 'heart_rate',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'xiuxian',
     iconURL: `asset/heart.png`,
     description: formatMessage({

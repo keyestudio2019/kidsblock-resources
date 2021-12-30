@@ -7,7 +7,7 @@ const motor130 = formatMessage => ({
     extensionId: 'motor130',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'kidsblock',
     iconURL: `asset/motor130.png`,
     description: formatMessage({

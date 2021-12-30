@@ -7,7 +7,7 @@ const ks_74hc595 = formatMessage => ({
     extensionId: 'ks_74hc595',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'kidsblock',
     iconURL: `asset/ks_74hc595.png`,
     description: formatMessage({

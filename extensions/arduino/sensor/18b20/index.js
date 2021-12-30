@@ -7,7 +7,7 @@ const t_18b20 = formatMessage => ({
     extensionId: 't_18b20',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'kidsblock',
     iconURL: `asset/t_18b20.png`,
     description: formatMessage({

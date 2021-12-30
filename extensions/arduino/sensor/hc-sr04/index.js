@@ -6,7 +6,7 @@ const ks_hcSr04 = formatMessage => ({
     }),
     extensionId: 'ks_hc_sr04',
     version: '1.0.0',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560', 'arduinoEsp32'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560', 'arduinoEsp32'],
     author: 'Liang',
     iconURL: `asset/HC-SR04.png`,
     description: formatMessage({

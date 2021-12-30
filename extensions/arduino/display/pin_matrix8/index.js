@@ -7,7 +7,7 @@ const pin_matrix = formatMessage => ({
     extensionId: 'pin_matrixs',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'kidsblock',
     iconURL: `asset/pin_matrix.png`,
     description: formatMessage({

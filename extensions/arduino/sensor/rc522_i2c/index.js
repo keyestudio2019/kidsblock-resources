@@ -7,7 +7,7 @@ const rc522_iic = formatMessage => ({
     extensionId: 'rc522_iic',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'kidsblock',
     iconURL: `asset/rc522.png`,
     description: formatMessage({

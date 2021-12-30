@@ -6,7 +6,7 @@ const ks_dht11 = formatMessage => ({
     }),
     extensionId: 'ks_dht11',
     version: '1.0.0',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560', 'arduinoEsp32'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560', 'arduinoEsp32'],
     author: 'kidsblock',
     iconURL: `asset/DHT11.png`,
     description: formatMessage({

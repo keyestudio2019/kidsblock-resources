@@ -7,7 +7,7 @@ const ds1307 = formatMessage => ({
     extensionId: 'ds1307',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'xiuxian',
     iconURL: `asset/ks_ds1307.png`,
     description: formatMessage({

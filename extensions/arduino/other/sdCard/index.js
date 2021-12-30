@@ -5,7 +5,7 @@ const sdCard = formatMessage => ({
     }),
     extensionId: 'sdCard',
     version: '1.0.0',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoMini', 'arduinoLeonardo',
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoMini', 'arduinoLeonardo',
         'arduinoMega2560', 'arduinoEsp32', 'arduinoEsp8266'],
     author: 'ArthurZheng',
     iconURL: `asset/sdCard.png`,

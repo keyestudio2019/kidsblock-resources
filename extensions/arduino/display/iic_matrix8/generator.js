@@ -58,7 +58,6 @@ function addGenerator (Blockly) {
         return 'myMatrix.clear();\n  myMatrix.writeDisplay();\n';
     };
 
-
     return Blockly;
 }
 

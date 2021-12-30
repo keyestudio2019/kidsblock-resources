@@ -7,7 +7,7 @@ const bh1750 = formatMessage => ({
     extensionId: 'bh1750',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'xiuxian',
     iconURL: `asset/bh1750.png`,
     description: formatMessage({

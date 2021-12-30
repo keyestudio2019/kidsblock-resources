@@ -7,7 +7,7 @@ const ks_encoder = formatMessage => ({
     extensionId: 'ks_encoder',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'xiuxian',
     iconURL: `asset/encoder.png`,
     description: formatMessage({

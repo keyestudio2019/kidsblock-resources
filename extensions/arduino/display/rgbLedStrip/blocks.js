@@ -45,6 +45,7 @@ function addBlocks (Blockly) {
         }
     };
 
+
     Blockly.Blocks.rgbLedStrip_setPixelColor = {
         init: function () {
             this.jsonInit({
@@ -56,10 +57,8 @@ function addBlocks (Blockly) {
                         src: rgb6812IconUrl,
                         width: 50,
                         height: 27
-                    }
-                        
+                    }    
                 ],
-
                 args1: [
                     {
                         type: 'input_value',

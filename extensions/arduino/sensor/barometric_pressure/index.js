@@ -7,7 +7,7 @@ const barometric_pressure = formatMessage => ({
     extensionId: 'barometric_pressure',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'xiuxian',
     iconURL: `asset/bp.png`,
     description: formatMessage({

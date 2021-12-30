@@ -7,7 +7,7 @@ const ks_buzzer = formatMessage => ({
     extensionId: 'ks_buzzer',
     version: '1.0.0',
     type: 'arduino',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo', 'arduinoMega2560'],
+    supportDevice: ['arduinoUno', 'arduinoNano_arduinoUno', 'arduinoLeonardo', 'arduinoMega2560'],
     author: 'kidsblock',
     iconURL: `asset/p_buzzer.png`,
     description: formatMessage({
