@@ -151,6 +151,13 @@ function addToolbox () {
 
 </category>
 
+<category name="%{BKY_HC_SR04_CATEGORY}" id="HC_SR04_CATEGORY" colour="#D39DDB" secondaryColour="#D39DDB">
+                <block type="hc_sr04_read_distance" id="hc_sr04_read_distance">
+                    <field name="trig_pin">8</field>>
+                    <field name="echo_pin">7</field>>
+                </block>
+</category>
+
 <category name="%{BKY_BBRGBLEDSTRIP_CATEGORY}" id="BBRGBLEDSTRIP_CATEGORY" colour="#7700FF" secondaryColour="#4400B3">
     <block type="bbrgbLedStrip_init" id="bbrgbLedStrip_init">
         <value name="LEN">

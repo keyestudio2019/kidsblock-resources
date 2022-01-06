@@ -32,13 +32,13 @@ function addGenerator (Blockly) {
 
         return '  if(ip_flag == 1)\n'+
         '  {\n'+
-        '    for(int i=3; i>0; i--)'+
-        '    {'+
+        '    for(int i=3; i>0; i--)\n'+
+        '    {\n'+
         '       Serial.print("IP: ");\n'+
         '       Serial.println(WiFi.localIP());\n'+
         '       delay(500);\n'+
-        '    }'+
-        '    ip_flag = 0;'+
+        '    }\n'+
+        '    ip_flag = 0;\n'+
         '  }\n'+
         '  MDNS.update();\n'+
         '  WiFiClient client = server.available();\n'+
@@ -58,6 +58,20 @@ function addGenerator (Blockly) {
         '  }\n'+
         '  req = req.substring(addr_start + 1, addr_end);\n'+
         '  client.flush();\n'+
+        '  int len_val = String(req).length();\n'+
+        '  String M_req = String(req).substring(0,6);\n'+
+        '  if(M_req == "/btn/u")\n'+
+        '  {\n'+
+        '    String s_M_req = String(req).substring(5,len_val);\n'+
+        '    Serial.print(s_M_req);\n'+
+        '    Serial.print("#");\n'+
+        '  }\n'+
+        '  if(M_req == "/btn/v")\n'+
+        '  {\n'+
+        '    String s_M_req = String(req).substring(5,len_val);\n'+
+        '    Serial.print(s_M_req);\n'+
+        '    Serial.print("#");\n'+
+        '  }\n'+
         '  String s;\n'+
         '  if (req == "/") {\n'+
         '    IPAddress ip = WiFi.localIP();\n'+

@@ -184,6 +184,20 @@ function addGenerator (Blockly) {
         return ['servo_'+pin+'.read()', Blockly.Arduino.ORDER_ATOMIC];
     };
 
+    //超声波
+    Blockly.Arduino.hc_sr04_read_distance = function (block) {
+
+        const trigPin = block.getFieldValue('trig_pin');
+        const echoPin = block.getFieldValue('echo_pin');
+        const unit = block.getFieldValue('unit');
+
+        Blockly.Arduino.includes_.include_hc_sr04_read = `#include <Ultrasonic.h>`;
+        Blockly.Arduino.definitions_[`hc_sr04_read${trigPin}${echoPin}`] =
+            `Ultrasonic ultrasonic_${trigPin}_${echoPin}(${trigPin}, ${echoPin});`;
+
+        return [`ultrasonic_${trigPin}_${echoPin}.read(${unit})`, Blockly.Arduino.ORDER_ATOMIC];
+    };
+
     Blockly.Arduino.bbrgbLedStrip_init = function (block) {
         const len = Blockly.Arduino.valueToCode(block, 'LEN', Blockly.Arduino.ORDER_ATOMIC);
         const pin = block.getFieldValue('PIN');
@@ -250,7 +264,7 @@ function addGenerator (Blockly) {
         'uint8_t matrix_squinting[8]={0x00, 0x41, 0x22, 0x14, 0x22, 0x41, 0x1c, 0x00};\n'+
         'uint8_t matrix_despise1[8]={0x00, 0x11, 0x77, 0x00, 0x1c, 0x00, 0x00, 0x00};\n'+
         'uint8_t matrix_speechless[8]={0x00, 0x77, 0x00, 0x1c, 0x14, 0x1c, 0x00, 0x00};\n'+
-        'uint8_t matrix_heart[8]={0x00,0x00,0x18,0x24,0x42,0x81,0x99,0x66};\n'+
+        'uint8_t matrix_heart[8]={0x00, 0x66, 0x99, 0x81, 0x81, 0x42, 0x24, 0x18};\n'+
         'uint8_t matrix_clear[8]={0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00};\n';
 
         Blockly.Arduino.definitions_[`2matrix_display`] = 'int matrix_display(uint8_t led_array[8])'+
