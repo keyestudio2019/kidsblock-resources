@@ -2,6 +2,7 @@ module.exports = [
     // Buid-in device
     'unoPlus_arduinoUno',
     'Beetlebot_arduinoUno',
+    'Beetlebot_arduinoEsp32',
     //'arduinoUno',
     'arduinoNano_arduinoUno',
     //'arduinoMini',
