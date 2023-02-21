@@ -23,7 +23,7 @@ module.exports = [
     // kit
     'Superstarterkit_arduinoUno',
     '37Sensorkit_arduinoUno',
-    'Smarthome_arduinoUno',
+    //'Smarthome_arduinoUno',
     'Beetlebot_arduinoUno',
     'TurtleRobot_arduinoUno',
     'TankRobot_arduinoUno',

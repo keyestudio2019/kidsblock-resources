@@ -1,6 +1,5 @@
 module.exports = {
     'en': {
-
         'UnoMax.description':'UnoMax Development Board',
         'Smarthome.description':'Smart Home kit for Arduino',
         'Super_starter_kit.description':'Super Starter Kit for Arduino',
@@ -43,7 +42,6 @@ module.exports = {
         'ps2.name': 'PS2 remote control',
         'ps2.description': 'PS2 wireless remote controller with 4 signal lines.',
         'lcd.name': 'LCD1602 IIC',
-
         'ks_74hc595': '74HC595',
         'ks_74hc595.description': '74HC595 is an 8 bit displacement cache with serial input and parallel output',
         'ks_buzzer': 'Passive buzzer',
@@ -94,46 +92,30 @@ module.exports = {
         'lm35.description': 'Temperature LM35',
         't_18b20': '18b20',
         't_18b20.description': '18b20 temperature sensor',
-
         'apds9960': 'APDS9960',
         'apds9960.description': 'APDS9960 gesture recognition module',
-
-        
         'barometric_pressure': 'BMP388 pressure',
         'barometric_pressure.description': 'BMP388 temperature and pressure sensor',
-
-          
         'bh1750': 'BH1750 light',
         'bh1750.description': 'BH1750 Ambient Light Sensor',
-
         'ks_dht11': 'DHT11',
         'ks_dht11.description': 'DHT11 temperature and humidity sensor',
-
         'digital_compass': 'HMC5883',
         'digital_compass.description': 'HMC5883L 3-Axis Magnetic Electronic Compass Module',
-
         'ds3231': 'DS3231 clock',
         'ds3231.description': 'DS3231 real time clock module',
-
-        
         'ks_encoder': 'Encoder',
         'ks_encoder.description': 'Encoder module',
-
         'gesture_recognition': 'gesture_recognition',
         'gesture_recognition.description': 'gesture_recognition module',
-
         'ks_hc_sr04': 'Ultrasonic',
         'ks_hc-sr04.description': 'HC-SR04 ultrasonic ranging sensor',
-
         'heart_rate': 'Heart Rate',
         'heart_rate.description': 'Heart Rate sensor pulse sensor',
-
         'keypad4*4': '4*4 Key pad',
         'keypad4_4.description': '4*4 Key pad module',
-
     },
     'zh-cn': {
-        
         'UnoMax.description':'UnoMax 开发板',
         'Smarthome.description':'基于Arduino的智能家居学习套装',
         'Super_starter_kit.description':'基于Arduino的超级学习套装',
@@ -159,7 +141,6 @@ module.exports = {
         'BeetlebotEsp32.description':'Beetlebot机器人基于ESP32',
         'Beetlebot.description':'Beetlebot机器人基于Arduino',
         'SmarthomeEsp32.description':'ESP32智能家居',
-        
         'Codingbox.description':'STEM 编程工具箱',
         'l298n.description': 'L298N 电机驱动模块.',
         'dht11.description': 'DHT11 温湿度传感器模块.',
@@ -227,37 +208,26 @@ module.exports = {
         'lm35.description': 'LM35 温度传感器',
         't_18b20': '18b20温度',
         't_18b20.description': '18b20温度传感器',
-
         'apds9960': 'APDS9960 手势识别',
         'apds9960.description': 'APDS9960 手势识别模块',
-
         'barometric_pressure': 'BMP388气压传感器',
         'barometric_pressure.description': 'BMP388 气压和温度传感器',
-
         'bh1750': 'BH1750光照',
         'bh1750.description': 'BH1750 环境光传感器',
-
         'ks_dht11': 'DHT11温湿度',
         'ks_dht11.description': 'DHT11 温度湿度传感器',
-
         'digital_compass': 'HMC5883电子罗盘',
         'digital_compass.description': 'HMC5883L 三轴磁性电子罗盘模块',
-
         'ds3231': 'DS3231 时钟',
         'ds3231.description': 'DS3231 实时时钟模块 ',
-
         'ks_encoder': '选择编码器',
         'ks_encoder.description': '选择编码器模块',
-
         'gesture_recognition': '手势识别',
         'gesture_recognition.description': '手势识别模块',
-
         'ks_hc_sr04': '超声波传感器',
         'ks_hc-sr04.description': 'HC-SR04 超声波测距传感器',
-
         'heart_rate': '心率传感器',
         'heart_rate.description': '心率心跳传感器',
-
         'keypad4*4': '4*4 按键',
         'keypad4_4.description': '4*4 矩阵按键',
     }
