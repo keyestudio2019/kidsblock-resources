@@ -1,10 +1,10 @@
 V1.6.3:
 
-add 37 in 1 starter kit
-add super starter kit
-add Uno maker board
-Corrected some grammatical errors
-Added some display module functions
+add 37 in 1 starter kit<br>
+add super starter kit<br>
+add Uno maker board<br>
+Corrected some grammatical errors<br>
+Added some display module functions<br>
 Updated pictures of some suits
 
  V1.6.2:
