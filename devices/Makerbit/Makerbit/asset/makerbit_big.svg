@@ -1,0 +1,2293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 115.50545 111.25397"
+   version="1.1"
+   id="svg2371"
+   sodipodi:docname="makerbit_big.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   width="115.50545"
+   height="111.25397"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2373"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.575493"
+     inkscape:cx="88.938783"
+     inkscape:cy="60.411249"
+     inkscape:window-width="1716"
+     inkscape:window-height="848"
+     inkscape:window-x="271"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g6686" />
+  <defs
+     id="defs1292">
+    <style
+       id="style1250">.cls-1,.cls-2,.cls-24,.cls-26,.cls-3,.cls-30,.cls-31,.cls-33,.cls-34,.cls-35,.cls-38,.cls-39,.cls-40,.cls-41,.cls-42,.cls-43,.cls-44,.cls-57,.cls-60,.cls-66,.cls-67,.cls-68,.cls-69,.cls-70,.cls-91,.cls-94,.cls-96{fill:none;}.cls-2,.cls-55{clip-path:url(#clip-path);}.cls-3,.cls-47{clip-path:url(#clip-path-2);}.cls-28,.cls-4,.cls-74,.cls-77,.cls-81,.cls-85{fill:#040000;}.cls-10,.cls-21,.cls-23,.cls-25,.cls-26,.cls-28,.cls-4,.cls-46,.cls-5,.cls-53,.cls-56,.cls-58,.cls-59,.cls-61,.cls-62,.cls-63,.cls-65,.cls-8,.cls-87,.cls-88,.cls-92,.cls-94,.cls-96{fill-rule:evenodd;}.cls-5,.cls-6{fill:#f5c620;}.cls-7,.cls-92{fill:#c9caca;}.cls-27,.cls-73,.cls-78,.cls-8,.cls-82,.cls-83,.cls-84,.cls-90,.cls-95{fill:#efea3c;}.cls-53,.cls-9{fill:#dcdddd;}.cls-10{fill:#b5b5b6;}.cls-11{fill:url(#未命名的渐变_11);}.cls-12{fill:url(#未命名的渐变_15);}.cls-13{fill:url(#未命名的渐变_15-2);}.cls-14{fill:url(#未命名的渐变_15-3);}.cls-15{fill:url(#未命名的渐变_15-4);}.cls-16{fill:url(#未命名的渐变_11-2);}.cls-17{fill:url(#未命名的渐变_15-5);}.cls-18{fill:url(#未命名的渐变_15-6);}.cls-19{fill:url(#未命名的渐变_15-7);}.cls-20{fill:url(#未命名的渐变_15-8);}.cls-21{fill:#f0efef;}.cls-22,.cls-23{fill:#403941;}.cls-24,.cls-61{stroke:#fff;}.cls-24{stroke-miterlimit:1.87;stroke-width:0.78px;}.cls-25{fill:#e7c981;stroke-width:0.79px;}.cls-25,.cls-26,.cls-30,.cls-31,.cls-33,.cls-34,.cls-35,.cls-38,.cls-39,.cls-40,.cls-41,.cls-42,.cls-43,.cls-44,.cls-91,.cls-94,.cls-96{stroke:#efea3c;}.cls-25,.cls-26,.cls-28,.cls-30,.cls-31,.cls-33,.cls-34,.cls-35,.cls-38,.cls-39,.cls-40,.cls-41,.cls-42,.cls-43,.cls-44,.cls-57,.cls-60,.cls-61,.cls-66,.cls-67,.cls-68,.cls-69,.cls-70,.cls-91,.cls-96{stroke-miterlimit:10;}.cls-26{stroke-width:3.76px;}.cls-28{stroke:#040000;stroke-width:0.79px;}.cls-29,.cls-46{fill:#1f1e1d;}.cls-30,.cls-96{stroke-width:0.72px;}.cls-31{stroke-width:0.78px;}.cls-32{fill:#b98f43;}.cls-33{stroke-width:0.77px;}.cls-34{stroke-width:0.62px;}.cls-35{stroke-width:0.86px;}.cls-36{fill:#fff;}.cls-37{fill:#bcaa8f;}.cls-38{stroke-width:0.78px;}.cls-39{stroke-width:0.73px;}.cls-40{stroke-width:0.89px;}.cls-41{stroke-width:0.8px;}.cls-42{stroke-width:0.69px;}.cls-43{stroke-width:0.59px;}.cls-44{stroke-width:0.77px;}.cls-45,.cls-72{fill:#7f8080;}.cls-48{fill:url(#未命名的渐变_11-3);}.cls-49{fill:url(#未命名的渐变_15-9);}.cls-50{fill:url(#未命名的渐变_15-10);}.cls-51{fill:url(#未命名的渐变_15-11);}.cls-52{fill:url(#未命名的渐变_15-12);}.cls-54{fill:#9fa0a0;}.cls-56{fill:#3e3a39;}.cls-57{stroke:#dcdddd;stroke-width:10.51px;}.cls-58{fill:#ccc;}.cls-59{fill:#1a1a1a;}.cls-60,.cls-69{stroke:#4e4d4d;}.cls-60{stroke-width:6.86px;}.cls-61,.cls-65{fill:#999;}.cls-61,.cls-68{stroke-width:1.61px;}.cls-62{fill:#f9ed9c;}.cls-63,.cls-64{fill:#e6e6e5;}.cls-66,.cls-67,.cls-68{stroke:#e6e6e5;}.cls-66{stroke-width:1.37px;}.cls-67{stroke-width:3.66px;}.cls-69{stroke-width:5.48px;}.cls-70{stroke:#7f8080;stroke-width:1.16px;}.cls-71,.cls-72,.cls-81,.cls-82,.cls-83,.cls-84,.cls-85{isolation:isolate;}.cls-72{font-size:18.5px;font-family:Helvetica;}.cls-73{font-size:24.83px;}.cls-73,.cls-78,.cls-81,.cls-82,.cls-83,.cls-84,.cls-85,.cls-90,.cls-95{font-family:ArialMT, Arial;}.cls-74{font-size:12.69px;font-family:Arial-BoldMT, Arial;font-weight:700;}.cls-75{letter-spacing:-0.07em;}.cls-76{letter-spacing:-0.04em;}.cls-78{font-size:8.46px;}.cls-79{letter-spacing:-0.04em;}.cls-80{letter-spacing:-0.06em;}.cls-81{font-size:8.08px;}.cls-82{font-size:5.89px;}.cls-83,.cls-84{font-size:4.72px;}.cls-83{letter-spacing:-0.02em;}.cls-85{font-size:9.81px;}.cls-86{letter-spacing:-0.02em;}.cls-87{fill:url(#未命名的渐变_16);}.cls-88{fill:#bcbcbb;}.cls-89{fill:#d3d3d3;}.cls-90{font-size:12.48px;}.cls-91{stroke-width:0.86px;}.cls-93{fill:#2f2724;}.cls-94{stroke-linecap:round;stroke-linejoin:round;stroke-width:1.8px;}.cls-95{font-size:13.78px;}</style>
+    <clipPath
+       id="clip-path">
+      <polygon
+         class="cls-1"
+         points="300.49,89.71 300.49,89.87 300.33,89.87 "
+         id="polygon1252" />
+    </clipPath>
+    <clipPath
+       id="clip-path-2">
+      <polygon
+         class="cls-1"
+         points="300.81,90.35 300.81,90.19 300.97,90.19 "
+         id="polygon1255" />
+    </clipPath>
+    <radialGradient
+       id="未命名的渐变_11"
+       cx="-649.59003"
+       cy="70.830002"
+       r="73.5"
+       gradientTransform="matrix(0.19,0,0,-0.19,165.04,211.51)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.79"
+         stop-color="#1f1e1d"
+         id="stop1258" />
+      <stop
+         offset="1"
+         stop-color="#040000"
+         id="stop1260" />
+    </radialGradient>
+    <radialGradient
+       id="未命名的渐变_15"
+       cx="-736.10999"
+       cy="154.50999"
+       r="18.4"
+       gradientTransform="matrix(0.19,0,0,-0.19,165.04,211.51)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.39"
+         stop-color="#1f1e1d"
+         id="stop1263" />
+      <stop
+         offset="1"
+         stop-color="#040000"
+         id="stop1265" />
+    </radialGradient>
+    <radialGradient
+       id="未命名的渐变_15-2"
+       cx="-566.03003"
+       cy="154.50999"
+       r="18.4"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15" />
+    <radialGradient
+       id="未命名的渐变_15-3"
+       cx="-736.10999"
+       cy="-10.56"
+       r="18.4"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15" />
+    <radialGradient
+       id="未命名的渐变_15-4"
+       cx="-566.03003"
+       cy="-10.56"
+       r="18.4"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15" />
+    <radialGradient
+       id="未命名的渐变_11-2"
+       cx="989.34998"
+       cy="70.830002"
+       r="73.480003"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_11" />
+    <radialGradient
+       id="未命名的渐变_15-5"
+       cx="902.88"
+       cy="154.50999"
+       r="18.42"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15" />
+    <radialGradient
+       id="未命名的渐变_15-6"
+       cx="1073"
+       cy="154.50999"
+       r="18.4"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15" />
+    <radialGradient
+       id="未命名的渐变_15-7"
+       cx="902.88"
+       cy="-10.56"
+       r="18.42"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15" />
+    <radialGradient
+       id="未命名的渐变_15-8"
+       cx="1073"
+       cy="-10.56"
+       r="18.4"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15" />
+    <radialGradient
+       id="未命名的渐变_11-3"
+       cx="1558.16"
+       cy="383.5"
+       r="73.699997"
+       gradientTransform="matrix(-0.19,0,0,0.18,914.76,-37.31)"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_11" />
+    <radialGradient
+       id="未命名的渐变_15-9"
+       cx="1471.89"
+       cy="467.34"
+       r="18.389999"
+       gradientTransform="matrix(-0.19,0,0,0.18,914.76,-37.31)"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15" />
+    <radialGradient
+       id="未命名的渐变_15-10"
+       cx="1641.96"
+       cy="467.34"
+       r="18.4"
+       gradientTransform="matrix(-0.19,0,0,0.18,914.76,-37.31)"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15" />
+    <radialGradient
+       id="未命名的渐变_15-11"
+       cx="1471.89"
+       cy="302.31"
+       r="18.379999"
+       gradientTransform="matrix(-0.19,0,0,0.18,914.76,-37.31)"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15" />
+    <radialGradient
+       id="未命名的渐变_15-12"
+       cx="1641.96"
+       cy="302.31"
+       r="18.389999"
+       gradientTransform="matrix(-0.19,0,0,0.18,914.76,-37.31)"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15" />
+    <linearGradient
+       id="未命名的渐变_16"
+       x1="2130.3601"
+       y1="984.06"
+       x2="2507.5901"
+       y2="984.06"
+       gradientTransform="matrix(0.19,0,0,-0.18,271.05,206.33)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#3e3a39"
+         id="stop1281" />
+      <stop
+         offset="0.11"
+         stop-color="#c9caca"
+         id="stop1283" />
+      <stop
+         offset="0.53"
+         stop-color="#c9caca"
+         id="stop1285" />
+      <stop
+         offset="0.91"
+         stop-color="#c9caca"
+         id="stop1287" />
+      <stop
+         offset="1"
+         stop-color="#3e3a39"
+         id="stop1289" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_11"
+       id="radialGradient3568"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19,0,0,-0.19,165.04,211.51)"
+       cx="-649.59003"
+       cy="70.830002"
+       r="73.5" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15"
+       id="radialGradient3570"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19,0,0,-0.19,165.04,211.51)"
+       cx="-736.10999"
+       cy="154.50999"
+       r="18.4" />
+  </defs>
+  <g
+     class="cls-47"
+     clip-path="url(#clip-path-2)"
+     id="g2031"
+     transform="translate(-109.63523,-93.633691)">
+    <rect
+       id="rect30809"
+       class="cls-7"
+       x="601.82001"
+       y="3.4000001"
+       width="10.72"
+       height="62.790001" />
+  </g>
+  <g
+     class="cls-47"
+     clip-path="url(#clip-path-2)"
+     id="g2035"
+     transform="translate(-109.63523,-93.633691)">
+    <rect
+       id="rect30813"
+       class="cls-7"
+       x="636.32001"
+       y="3.4000001"
+       width="10.72"
+       height="62.790001" />
+  </g>
+  <g
+     class="cls-55"
+     clip-path="url(#clip-path)"
+     id="g2048"
+     transform="translate(-109.63523,-93.633691)">
+    <rect
+       id="rect30860"
+       class="cls-7"
+       x="794.21997"
+       y="41.369999"
+       width="7.4899998"
+       height="5.98" />
+  </g>
+  <g
+     class="cls-55"
+     clip-path="url(#clip-path)"
+     id="g2051"
+     transform="translate(-109.63523,-93.633691)">
+    <rect
+       id="rect30862"
+       class="cls-7"
+       x="761.44"
+       y="41.369999"
+       width="7.4899998"
+       height="5.98" />
+  </g>
+  <g
+     class="cls-55"
+     clip-path="url(#clip-path)"
+     id="g2054"
+     transform="translate(-109.63523,-93.633691)">
+    <rect
+       id="rect30864"
+       class="cls-7"
+       x="748.97998"
+       y="47.349998"
+       width="6.23"
+       height="19.16" />
+  </g>
+  <g
+     class="cls-55"
+     clip-path="url(#clip-path)"
+     id="g2057"
+     transform="translate(-109.63523,-93.633691)">
+    <rect
+       id="rect30866"
+       class="cls-7"
+       x="806.98999"
+       y="47.349998"
+       width="6.23"
+       height="19.16" />
+  </g>
+  <g
+     id="g6686"
+     transform="matrix(0.48888893,0,0,0.48888893,0,-0.10755556)">
+    <g
+       id="g7785"
+       transform="matrix(0.60983202,0,0,0.60983202,0,0.08583695)">
+      <path
+         class="cls-4"
+         d="M 369,0.22 H 17.93 C 8.06,0.22 0,8 0,17.51 v 338.55 a 17.51,17.51 0 0 0 12.88,16.59 c 1.44,0 4.83,0.06 6.69,0.07 a 14.43,14.43 0 0 1 12.37,-7 c 5.3,0 9.94,3.41 12.42,7.61 h 51.42 a 14.3,14.3 0 0 1 24.84,0 h 61.44 a 14.64,14.64 0 0 1 12.42,-7.23 14.45,14.45 0 0 1 12.42,7 l 60.18,0.24 a 14.5,14.5 0 0 1 24.81,0 l 52.1,-0.1 a 13.86,13.86 0 0 1 24.1,0 H 375 c 3.78,0 12,-7.67 12,-17.2 V 17.51 C 387,8 379,0.22 369,0.22 Z M 32,337.88 A 14.72,14.72 0 1 1 46.72,323.16 14.72,14.72 0 0 1 32,337.88 Z m 76.7,0.18 a 14.72,14.72 0 1 1 14.72,-14.71 14.72,14.72 0 0 1 -14.77,14.71 z m 86.1,0.75 a 14.72,14.72 0 1 1 14.72,-14.71 14.71,14.71 0 0 1 -14.77,14.71 z m 84.79,0 a 14.72,14.72 0 1 1 14.71,-14.71 14.71,14.71 0 0 1 -14.76,14.71 z m 76.89,0 a 14.72,14.72 0 1 1 14.71,-14.71 14.71,14.71 0 0 1 -14.76,14.71 z"
+         id="path1364" />
+      <path
+         id="path755-6-9-2"
+         class="cls-7"
+         d="m 91.54,42.63 v 0 a 3.29,3.29 0 0 1 -3.29,-3.29 v -5.68 a 3.29,3.29 0 0 1 3.29,-3.29 v 0 a 3.29,3.29 0 0 1 3.29,3.29 v 5.68 a 3.35,3.35 0 0 1 -3.29,3.29 z" />
+      <path
+         id="path757-0-5-9"
+         class="cls-7"
+         d="m 91.49,41 v 0 a 1.79,1.79 0 0 1 -1.77,-1.77 v -5.32 a 1.79,1.79 0 0 1 1.77,-1.77 v 0 a 1.79,1.79 0 0 1 1.77,1.77 v 5.28 A 1.76,1.76 0 0 1 91.49,41 Z" />
+      <path
+         id="path759-2-7-7"
+         class="cls-7"
+         d="m 147.21,42.63 v 0 a 3.29,3.29 0 0 1 -3.29,-3.29 v -5.68 a 3.29,3.29 0 0 1 3.29,-3.29 v 0 a 3.29,3.29 0 0 1 3.3,3.29 v 5.68 a 3.35,3.35 0 0 1 -3.3,3.29 z" />
+      <path
+         id="path761-4-7-9"
+         class="cls-7"
+         d="m 147.21,41 v 0 a 1.79,1.79 0 0 1 -1.77,-1.77 v -5.32 a 1.79,1.79 0 0 1 1.77,-1.77 v 0 a 1.79,1.79 0 0 1 1.79,1.77 v 5.28 A 1.83,1.83 0 0 1 147.21,41 Z" />
+      <path
+         id="path10"
+         class="cls-8"
+         d="m 341,267.36 a 1.1,1.1 0 0 1 1,-1 h 9.68 a 1,1 0 0 1 0,2 H 342 a 1.1,1.1 0 0 1 -1,-1" />
+      <path
+         id="path12"
+         class="cls-8"
+         d="m 345.91,267.36 v -4.08 a 1,1 0 0 1 2,0 v 4.08 a 1,1 0 0 1 -2,0" />
+      <path
+         id="path14"
+         class="cls-8"
+         d="m 336.57,253.43 v -2.38 a 1,1 0 0 1 2,0 v 2.38 a 8.32,8.32 0 0 0 16.64,0 v -2.38 a 1,1 0 0 1 2,0 v 2.38 a 10.29,10.29 0 0 1 -10.36,10.36 10.52,10.52 0 0 1 -10.36,-10.36" />
+      <path
+         id="path16"
+         class="cls-8"
+         d="m 353.05,242.38 c 0,0 -1.36,-4.93 -5.61,-4.93 -4.75,0 -5.94,4.76 -5.94,4.76 a 26.72,26.72 0 0 0 0.17,12.41 5.69,5.69 0 0 0 5.6,4.24 c 2.38,0 3.23,-0.84 3.23,-0.84 0,0 2.55,-1.7 2.55,-4.08 a 0.83,0.83 0 0 0 -0.85,-0.85 h -4.93 v -9.86 h 5.27 a 0.81,0.81 0 0 0 0.51,-0.85" />
+      <path
+         id="path18"
+         class="cls-8"
+         d="m 346.93,247.31 v -2 h 5.44 a 1.1,1.1 0 0 1 1,1 v 0 a 1.1,1.1 0 0 1 -1,1 z" />
+      <path
+         id="path20"
+         class="cls-8"
+         d="m 346.93,251.22 v -2 h 5.44 a 1.1,1.1 0 0 1 1,1 v 0 a 1.1,1.1 0 0 1 -1,1 z" />
+      <path
+         id="path755-6-9"
+         class="cls-7"
+         d="m 91.24,21.35 v 0 A 3.29,3.29 0 0 1 88,18.06 v -5.68 a 3.29,3.29 0 0 1 3.29,-3.3 v 0 a 3.29,3.29 0 0 1 3.3,3.3 v 5.68 a 3.35,3.35 0 0 1 -3.35,3.29 z" />
+      <path
+         id="path757-0-5"
+         class="cls-7"
+         d="m 91.19,19.68 v 0 A 1.79,1.79 0 0 1 89.42,17.9 v -5.27 a 1.79,1.79 0 0 1 1.77,-1.77 v 0 A 1.79,1.79 0 0 1 93,12.63 v 5.27 a 1.76,1.76 0 0 1 -1.81,1.78 z" />
+      <path
+         id="path759-2-7"
+         class="cls-7"
+         d="m 146.92,21.35 v 0 a 3.29,3.29 0 0 1 -3.3,-3.29 v -5.68 a 3.29,3.29 0 0 1 3.3,-3.3 v 0 a 3.29,3.29 0 0 1 3.29,3.3 v 5.68 a 3.35,3.35 0 0 1 -3.29,3.29 z" />
+      <path
+         id="path761-4-7"
+         class="cls-7"
+         d="m 146.92,19.68 v 0 a 1.8,1.8 0 0 1 -1.78,-1.78 v -5.27 a 1.79,1.79 0 0 1 1.78,-1.77 v 0 a 1.79,1.79 0 0 1 1.77,1.77 v 5.27 a 1.83,1.83 0 0 1 -1.77,1.78 z" />
+      <g
+         id="g828-4-2">
+        <rect
+           id="rect783-0-1"
+           class="cls-7"
+           x="20.540001"
+           y="163.99001"
+           width="10.74"
+           height="65.489998" />
+        <rect
+           id="rect785-4-7"
+           class="cls-9"
+           x="24.18"
+           y="163.99001"
+           width="3.48"
+           height="65.489998" />
+        <rect
+           id="rect787-4-4"
+           class="cls-7"
+           x="55.540001"
+           y="163.99001"
+           width="10.74"
+           height="65.489998" />
+        <rect
+           id="rect789-1-1"
+           class="cls-9"
+           x="59.169998"
+           y="163.99001"
+           width="3.48"
+           height="65.489998" />
+        <path
+           id="path791-0-4"
+           class="cls-10"
+           d="M 63,219.3 H 23.86 a 3.42,3.42 0 0 1 -3.4,-3.4 v -36.74 a 3.42,3.42 0 0 1 3.4,-3.39 H 63 a 3.42,3.42 0 0 1 3.39,3.39 V 215.9 A 3.47,3.47 0 0 1 63,219.3 Z" />
+        <circle
+           id="circle798-7-8"
+           class="cls-11"
+           cx="43.689999"
+           cy="198.28"
+           r="13.75"
+           style="fill:url(#radialGradient3568)" />
+        <circle
+           id="circle805-3-3"
+           class="cls-12"
+           cx="27.49"
+           cy="182.64"
+           r="3.48"
+           style="fill:url(#radialGradient3570)" />
+        <circle
+           id="circle812-9-7"
+           class="cls-13"
+           cx="59.330002"
+           cy="182.64"
+           r="3.48"
+           style="fill:url(#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15-2)" />
+        <circle
+           id="circle819-9-4"
+           class="cls-14"
+           cx="27.49"
+           cy="213.45"
+           r="3.48"
+           style="fill:url(#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15-3)" />
+        <circle
+           id="circle826-5-4"
+           class="cls-15"
+           cx="59.330002"
+           cy="213.45"
+           r="3.48"
+           style="fill:url(#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15-4)" />
+      </g>
+      <g
+         id="g875-6-9">
+        <rect
+           id="rect830-3-4"
+           class="cls-7"
+           x="326.67999"
+           y="163.99001"
+           width="10.74"
+           height="65.489998" />
+        <rect
+           id="rect832-8-8"
+           class="cls-9"
+           x="330.39001"
+           y="163.99001"
+           width="3.48"
+           height="65.489998" />
+        <rect
+           id="rect834-1-9"
+           class="cls-7"
+           x="361.67999"
+           y="163.99001"
+           width="10.74"
+           height="65.489998" />
+        <rect
+           id="rect836-7-4"
+           class="cls-9"
+           x="365.39001"
+           y="163.99001"
+           width="3.48"
+           height="65.489998" />
+        <path
+           id="path838-1-3"
+           class="cls-10"
+           d="M 369.11,219.3 H 330 a 3.42,3.42 0 0 1 -3.4,-3.4 v -36.74 a 3.42,3.42 0 0 1 3.4,-3.39 h 39.11 a 3.42,3.42 0 0 1 3.39,3.39 v 36.74 a 3.37,3.37 0 0 1 -3.39,3.4 z" />
+        <circle
+           id="circle845-0-9"
+           class="cls-16"
+           cx="349.82999"
+           cy="198.28"
+           r="13.75"
+           style="fill:url(#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_11-2)" />
+        <circle
+           id="circle852-7-5"
+           class="cls-17"
+           cx="333.70999"
+           cy="182.64"
+           r="3.48"
+           style="fill:url(#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15-5)" />
+        <circle
+           id="circle859-5-8"
+           class="cls-18"
+           cx="365.47"
+           cy="182.64"
+           r="3.48"
+           style="fill:url(#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15-6)" />
+        <circle
+           id="circle866-7-5"
+           class="cls-19"
+           cx="333.70999"
+           cy="213.45"
+           r="3.48"
+           style="fill:url(#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15-7)" />
+        <circle
+           id="circle873-9-0"
+           class="cls-20"
+           cx="365.47"
+           cy="213.45"
+           r="3.48"
+           style="fill:url(#%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E6%B8%90%E5%8F%98_15-8)" />
+      </g>
+      <g
+         id="g879-2-6">
+        <path
+           id="path877-7-1"
+           class="cls-8"
+           d="m 36.1,154.51 4.59,-12 h 1.74 l 4.89,12 h -1.81 l -1.43,-3.63 h -5 l -1.35,3.63 z m 3.48,-5 h 4 l -1.26,-3.32 c -0.4,-1 -0.64,-1.82 -0.87,-2.45 -0.16,0.79 -0.4,1.5 -0.63,2.29 z" />
+      </g>
+      <g
+         id="g883-5-0">
+        <path
+           id="path881-0-9"
+           class="cls-8"
+           d="m 341.14,154.51 v -12 h 4.5 a 5.45,5.45 0 0 1 2.21,0.4 3,3 0 0 1 1.74,2.69 3.05,3.05 0 0 1 -0.39,1.42 3.43,3.43 0 0 1 -1.27,1.1 3.13,3.13 0 0 1 1.66,1.11 3.27,3.27 0 0 1 0.16,3.4 3.12,3.12 0 0 1 -0.87,1.1 4.18,4.18 0 0 1 -1.34,0.64 7.48,7.48 0 0 1 -2,0.23 h -4.42 z m 1.58,-6.95 h 2.61 a 6.07,6.07 0 0 0 1.5,-0.16 2,2 0 0 0 0.95,-0.63 1.8,1.8 0 0 0 -0.79,-2.69 9.22,9.22 0 0 0 -1.82,-0.15 h -2.37 v 3.63 z m 0,5.53 h 3 a 4.17,4.17 0 0 0 1.11,-0.08 3.78,3.78 0 0 0 0.95,-0.31 1.68,1.68 0 0 0 0.63,-0.64 2.13,2.13 0 0 0 0.23,-1 1.89,1.89 0 0 0 -0.31,-1.19 2.21,2.21 0 0 0 -0.95,-0.71 5,5 0 0 0 -1.74,-0.24 h -2.76 v 4.19 z" />
+      </g>
+      <g
+         id="g1491-3-6">
+        <g
+           id="g1081-9-3">
+          <g
+             id="g999-6-9">
+            <g
+               id="g989-3-8">
+              <rect
+                 id="rect981-2-4"
+                 class="cls-9"
+                 x="108.04"
+                 y="104.74"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect983-3-4"
+                 class="cls-9"
+                 x="108.04"
+                 y="112.96"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect985-4-1"
+                 class="cls-9"
+                 x="123.6"
+                 y="104.74"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect987-7-8"
+                 class="cls-9"
+                 x="123.6"
+                 y="112.96"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path991-7-5"
+               class="cls-21"
+               d="m 124.39,115.49 a 1.75,1.75 0 0 1 1.74,-1.74 v -4 a 1.74,1.74 0 1 1 0,-3.48 v -2.76 h -17 v 2.76 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.75,1.75 0 0 1 0,3.47 v 2.06 h 17 v -1.98 a 1.88,1.88 0 0 1 -1.74,-1.81 z" />
+            <rect
+               id="rect993-4-0"
+               class="cls-22"
+               x="111.75"
+               y="107.59"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path995-6-4"
+               class="cls-23"
+               d="m 116.18,115.09 v 0 a 0.63,0.63 0 0 1 -0.64,-0.63 v 0 a 0.62,0.62 0 0 1 0.64,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,0.63 v 0 a 0.63,0.63 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect997-3-8"
+               class="cls-24"
+               x="106.77"
+               y="103"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1019-6-2">
+            <g
+               id="g1009-9-1">
+              <rect
+                 id="rect1001-0-3"
+                 class="cls-9"
+                 x="108.04"
+                 y="142.11"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1003-5-4"
+                 class="cls-9"
+                 x="108.04"
+                 y="150.33"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1005-9-1"
+                 class="cls-9"
+                 x="123.6"
+                 y="142.11"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1007-4-3"
+                 class="cls-9"
+                 x="123.6"
+                 y="150.33"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1011-6-8"
+               class="cls-21"
+               d="m 124.39,152.85 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.84 h -17 v 2.76 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.75,1.75 0 0 1 0,3.47 v 2.06 h 17 v -2.06 a 1.75,1.75 0 0 1 -1.74,-1.66 z" />
+            <rect
+               id="rect1013-1-9"
+               class="cls-22"
+               x="111.75"
+               y="144.95"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1015-0-5"
+               class="cls-23"
+               d="m 116.18,152.46 v 0 a 0.63,0.63 0 0 1 -0.64,-0.63 v 0 a 0.62,0.62 0 0 1 0.64,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,0.63 v 0 a 0.69,0.69 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1017-7-1"
+               class="cls-24"
+               x="106.77"
+               y="140.37"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1039-0-3">
+            <g
+               id="g1029-4-0">
+              <rect
+                 id="rect1021-8-9"
+                 class="cls-9"
+                 x="108.04"
+                 y="179.48"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1023-6-3"
+                 class="cls-9"
+                 x="108.04"
+                 y="187.7"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1025-8-8"
+                 class="cls-9"
+                 x="123.6"
+                 y="179.48"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1027-9-0"
+                 class="cls-9"
+                 x="123.6"
+                 y="187.7"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1031-0-3"
+               class="cls-21"
+               d="m 124.39,190.22 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.77 h -17 v 2.77 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2.05 h 17 V 192 a 1.88,1.88 0 0 1 -1.74,-1.78 z" />
+            <rect
+               id="rect1033-3-4"
+               class="cls-22"
+               x="111.75"
+               y="182.32001"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1035-9-1"
+               class="cls-23"
+               d="m 116.18,189.83 v 0 a 0.63,0.63 0 0 1 -0.64,-0.63 v 0 a 0.63,0.63 0 0 1 0.64,-0.64 v 0 a 0.63,0.63 0 0 1 0.63,0.64 v 0 a 0.69,0.69 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1037-5-5"
+               class="cls-24"
+               x="106.77"
+               y="177.74001"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1059-3-2">
+            <g
+               id="g1049-0-0">
+              <rect
+                 id="rect1041-9-8"
+                 class="cls-9"
+                 x="108.04"
+                 y="216.77"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1043-3-6"
+                 class="cls-9"
+                 x="108.04"
+                 y="224.99001"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1045-3-7"
+                 class="cls-9"
+                 x="123.6"
+                 y="216.77"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1047-8-0"
+                 class="cls-9"
+                 x="123.6"
+                 y="224.99001"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1051-9-9"
+               class="cls-21"
+               d="m 124.39,227.51 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 1 1 0,-3.47 v -2.77 h -17 v 2.77 a 1.79,1.79 0 0 1 1.51,1.74 1.77,1.77 0 0 1 -1.51,1.73 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2 h 17 v -2 a 1.77,1.77 0 0 1 -1.74,-1.75 z" />
+            <rect
+               id="rect1053-5-1"
+               class="cls-22"
+               x="111.75"
+               y="219.61"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1055-6-2"
+               class="cls-23"
+               d="m 116.18,227.12 v 0 a 0.63,0.63 0 0 1 -0.64,-0.63 v 0 a 0.63,0.63 0 0 1 0.64,-0.64 v 0 a 0.63,0.63 0 0 1 0.63,0.64 v 0 a 0.63,0.63 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1057-3-6"
+               class="cls-24"
+               x="106.77"
+               y="215.11"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1079-2-1">
+            <g
+               id="g1069-9-3">
+              <rect
+                 id="rect1061-9-0"
+                 class="cls-9"
+                 x="108.04"
+                 y="254.14"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1063-3-4"
+                 class="cls-9"
+                 x="108.04"
+                 y="262.35001"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1065-0-3"
+                 class="cls-9"
+                 x="123.6"
+                 y="254.14"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1067-8-1"
+                 class="cls-9"
+                 x="123.6"
+                 y="262.35001"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1071-0-9"
+               class="cls-21"
+               d="m 124.39,264.88 a 1.75,1.75 0 0 1 1.74,-1.74 v -3.95 a 1.74,1.74 0 1 1 0,-3.47 V 253 h -17 v 2.77 a 1.75,1.75 0 0 1 0,3.47 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2.05 h 17 v -2.07 a 1.88,1.88 0 0 1 -1.74,-1.82 z" />
+            <rect
+               id="rect1073-5-3"
+               class="cls-22"
+               x="111.75"
+               y="256.98001"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1075-6-0"
+               class="cls-23"
+               d="m 116.18,264.49 v 0 a 0.63,0.63 0 0 1 -0.64,-0.63 v 0 a 0.63,0.63 0 0 1 0.64,-0.64 v 0 a 0.63,0.63 0 0 1 0.63,0.64 v 0 a 0.63,0.63 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1077-2-6"
+               class="cls-24"
+               x="106.77"
+               y="252.39999"
+               width="21.73"
+               height="16.75" />
+          </g>
+        </g>
+        <g
+           id="g1183-2-9">
+          <g
+             id="g1101-7-7">
+            <g
+               id="g1091-3-0">
+              <rect
+                 id="rect1083-1-2"
+                 class="cls-9"
+                 x="145.96001"
+                 y="104.74"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1085-0-0"
+                 class="cls-9"
+                 x="145.96001"
+                 y="112.96"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1087-1-8"
+                 class="cls-9"
+                 x="161.52"
+                 y="104.74"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1089-0-6"
+                 class="cls-9"
+                 x="161.52"
+                 y="112.96"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1093-1-0"
+               class="cls-21"
+               d="m 162.31,115.49 a 1.75,1.75 0 0 1 1.74,-1.74 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.76 h -17 v 2.76 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.75,1.75 0 0 1 0,3.47 v 2.06 h 17 v -1.98 a 1.88,1.88 0 0 1 -1.74,-1.81 z" />
+            <rect
+               id="rect1095-5-9"
+               class="cls-22"
+               x="149.67"
+               y="107.59"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1097-5-1"
+               class="cls-23"
+               d="m 154.1,115.09 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.61,0.61 0 0 1 0.63,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,0.63 v 0 a 0.63,0.63 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1099-7-9"
+               class="cls-24"
+               x="144.7"
+               y="103"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1121-8-4">
+            <g
+               id="g1111-2-5">
+              <rect
+                 id="rect1103-4-8"
+                 class="cls-9"
+                 x="145.96001"
+                 y="142.11"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1105-5-7"
+                 class="cls-9"
+                 x="145.96001"
+                 y="150.33"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1107-3-6"
+                 class="cls-9"
+                 x="161.52"
+                 y="142.11"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1109-1-0"
+                 class="cls-9"
+                 x="161.52"
+                 y="150.33"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1113-7-0"
+               class="cls-21"
+               d="m 162.31,152.85 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.84 h -17 v 2.76 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.75,1.75 0 0 1 0,3.47 v 2.06 h 17 v -2.06 a 1.75,1.75 0 0 1 -1.74,-1.66 z" />
+            <rect
+               id="rect1115-1-3"
+               class="cls-22"
+               x="149.67"
+               y="144.95"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1117-0-9"
+               class="cls-23"
+               d="m 154.1,152.46 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.61,0.61 0 0 1 0.63,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,0.63 v 0 a 0.69,0.69 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1119-0-5"
+               class="cls-24"
+               x="144.7"
+               y="140.37"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1141-8-7">
+            <g
+               id="g1131-8-5">
+              <rect
+                 id="rect1123-4-0"
+                 class="cls-9"
+                 x="145.96001"
+                 y="179.48"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1125-8-9"
+                 class="cls-9"
+                 x="145.96001"
+                 y="187.7"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1127-1-4"
+                 class="cls-9"
+                 x="161.52"
+                 y="179.48"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1129-4-6"
+                 class="cls-9"
+                 x="161.52"
+                 y="187.7"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1133-4-3"
+               class="cls-21"
+               d="m 162.31,190.22 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.77 h -17 v 2.77 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2.05 h 17 V 192 a 1.88,1.88 0 0 1 -1.74,-1.78 z" />
+            <rect
+               id="rect1135-7-7"
+               class="cls-22"
+               x="149.67"
+               y="182.32001"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1137-2-5"
+               class="cls-23"
+               d="m 154.1,189.83 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,-0.64 v 0 a 0.63,0.63 0 0 1 0.63,0.64 v 0 a 0.69,0.69 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1139-7-4"
+               class="cls-24"
+               x="144.7"
+               y="177.74001"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1161-8-7">
+            <g
+               id="g1151-1-9">
+              <rect
+                 id="rect1143-5-9"
+                 class="cls-9"
+                 x="145.96001"
+                 y="216.77"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1145-6-6"
+                 class="cls-9"
+                 x="145.96001"
+                 y="224.99001"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1147-2-7"
+                 class="cls-9"
+                 x="161.52"
+                 y="216.77"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1149-2-3"
+                 class="cls-9"
+                 x="161.52"
+                 y="224.99001"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1153-8-4"
+               class="cls-21"
+               d="m 162.31,227.51 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 1 1 0,-3.47 v -2.77 h -17 v 2.77 a 1.78,1.78 0 0 1 1.5,1.74 1.76,1.76 0 0 1 -1.5,1.73 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2 h 17 v -2 a 1.77,1.77 0 0 1 -1.74,-1.75 z" />
+            <rect
+               id="rect1155-0-2"
+               class="cls-22"
+               x="149.67"
+               y="219.61"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1157-7-0"
+               class="cls-23"
+               d="m 154.1,227.12 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,-0.64 v 0 a 0.63,0.63 0 0 1 0.63,0.64 v 0 a 0.63,0.63 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1159-9-9"
+               class="cls-24"
+               x="144.7"
+               y="215.11"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1181-9-3">
+            <g
+               id="g1171-2-9">
+              <rect
+                 id="rect1163-1-2"
+                 class="cls-9"
+                 x="145.96001"
+                 y="254.14"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1165-6-2"
+                 class="cls-9"
+                 x="145.96001"
+                 y="262.35001"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1167-1-3"
+                 class="cls-9"
+                 x="161.52"
+                 y="254.14"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1169-4-2"
+                 class="cls-9"
+                 x="161.52"
+                 y="262.35001"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1173-9-4"
+               class="cls-21"
+               d="m 162.31,264.88 a 1.75,1.75 0 0 1 1.74,-1.74 v -3.95 a 1.74,1.74 0 1 1 0,-3.47 V 253 h -17 v 2.77 a 1.75,1.75 0 0 1 0,3.47 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2.05 h 17 v -2.07 a 1.88,1.88 0 0 1 -1.74,-1.82 z" />
+            <rect
+               id="rect1175-2-6"
+               class="cls-22"
+               x="149.67"
+               y="256.98001"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1177-0-6"
+               class="cls-23"
+               d="m 154.1,264.49 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,-0.64 v 0 a 0.63,0.63 0 0 1 0.63,0.64 v 0 a 0.63,0.63 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1179-8-4"
+               class="cls-24"
+               x="144.7"
+               y="252.39999"
+               width="21.73"
+               height="16.75" />
+          </g>
+        </g>
+        <g
+           id="g1285-1-9">
+          <g
+             id="g1203-4-7">
+            <g
+               id="g1193-7-7">
+              <rect
+                 id="rect1185-0-8"
+                 class="cls-9"
+                 x="183.88"
+                 y="104.74"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1187-5-6"
+                 class="cls-9"
+                 x="183.88"
+                 y="112.96"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1189-3-6"
+                 class="cls-9"
+                 x="199.52"
+                 y="104.74"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1191-3-8"
+                 class="cls-9"
+                 x="199.52"
+                 y="112.96"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1195-5-4"
+               class="cls-21"
+               d="m 200.24,115.49 a 1.75,1.75 0 0 1 1.73,-1.74 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.76 H 185 v 2.76 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.75,1.75 0 0 1 0,3.47 v 2.06 h 17 v -1.98 a 1.88,1.88 0 0 1 -1.76,-1.81 z" />
+            <rect
+               id="rect1197-2-0"
+               class="cls-22"
+               x="187.60001"
+               y="107.59"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1199-1-4"
+               class="cls-23"
+               d="m 192,115.09 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.61,0.61 0 0 1 0.63,-0.63 v 0 a 0.61,0.61 0 0 1 0.63,0.63 v 0 a 0.58,0.58 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1201-5-6"
+               class="cls-24"
+               x="182.62"
+               y="103"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1223-0-9">
+            <g
+               id="g1213-0-4">
+              <rect
+                 id="rect1205-9-4"
+                 class="cls-9"
+                 x="183.88"
+                 y="142.11"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1207-3-7"
+                 class="cls-9"
+                 x="183.88"
+                 y="150.33"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1209-7-2"
+                 class="cls-9"
+                 x="199.52"
+                 y="142.11"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1211-7-3"
+                 class="cls-9"
+                 x="199.52"
+                 y="150.33"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1215-2-9"
+               class="cls-21"
+               d="m 200.24,152.85 a 1.75,1.75 0 0 1 1.73,-1.73 v -4 a 1.74,1.74 0 0 1 0,-3.48 V 140.8 H 185 v 2.76 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.75,1.75 0 0 1 0,3.47 v 2.06 h 17 v -2.06 a 1.75,1.75 0 0 1 -1.76,-1.66 z" />
+            <rect
+               id="rect1217-5-9"
+               class="cls-22"
+               x="187.60001"
+               y="144.95"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1219-3-7"
+               class="cls-23"
+               d="m 192,152.46 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 A 0.61,0.61 0 0 1 192,151.2 v 0 a 0.61,0.61 0 0 1 0.63,0.63 v 0 a 0.63,0.63 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1221-6-8"
+               class="cls-24"
+               x="182.62"
+               y="140.37"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1243-6-9">
+            <g
+               id="g1233-7-9">
+              <rect
+                 id="rect1225-5-9"
+                 class="cls-9"
+                 x="183.88"
+                 y="179.48"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1227-6-1"
+                 class="cls-9"
+                 x="183.88"
+                 y="187.7"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1229-3-2"
+                 class="cls-9"
+                 x="199.52"
+                 y="179.48"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1231-2-0"
+                 class="cls-9"
+                 x="199.52"
+                 y="187.7"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1235-5-8"
+               class="cls-21"
+               d="m 200.24,190.22 a 1.75,1.75 0 0 1 1.73,-1.73 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.77 H 185 v 2.77 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2.05 h 17 V 192 a 1.88,1.88 0 0 1 -1.76,-1.78 z" />
+            <rect
+               id="rect1237-3-2"
+               class="cls-22"
+               x="187.60001"
+               y="182.32001"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1239-1-2"
+               class="cls-23"
+               d="m 192,189.83 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,-0.64 v 0 a 0.62,0.62 0 0 1 0.63,0.64 v 0 a 0.63,0.63 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1241-1-6"
+               class="cls-24"
+               x="182.62"
+               y="177.74001"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1263-1-8">
+            <g
+               id="g1253-1-8">
+              <rect
+                 id="rect1245-4-7"
+                 class="cls-9"
+                 x="183.88"
+                 y="216.77"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1247-2-0"
+                 class="cls-9"
+                 x="183.88"
+                 y="224.99001"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1249-4-6"
+                 class="cls-9"
+                 x="199.52"
+                 y="216.77"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1251-7-4"
+                 class="cls-9"
+                 x="199.52"
+                 y="224.99001"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1255-5-7"
+               class="cls-21"
+               d="m 200.24,227.51 a 1.75,1.75 0 0 1 1.73,-1.73 v -4 a 1.74,1.74 0 0 1 0,-3.47 v -2.77 H 185 v 2.77 a 1.78,1.78 0 0 1 1.5,1.74 1.76,1.76 0 0 1 -1.5,1.73 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2 h 17 v -2 a 1.77,1.77 0 0 1 -1.76,-1.75 z" />
+            <rect
+               id="rect1257-5-3"
+               class="cls-22"
+               x="187.60001"
+               y="219.61"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1259-9-1"
+               class="cls-23"
+               d="m 192,227.12 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,-0.64 v 0 a 0.62,0.62 0 0 1 0.63,0.64 v 0 a 0.58,0.58 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1261-1-7"
+               class="cls-24"
+               x="182.62"
+               y="215.11"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1283-7-5">
+            <g
+               id="g1273-9-1">
+              <rect
+                 id="rect1265-9-1"
+                 class="cls-9"
+                 x="183.88"
+                 y="254.14"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1267-3-1"
+                 class="cls-9"
+                 x="183.88"
+                 y="262.35001"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1269-0-6"
+                 class="cls-9"
+                 x="199.52"
+                 y="254.14"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1271-0-0"
+                 class="cls-9"
+                 x="199.52"
+                 y="262.35001"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1275-0-5"
+               class="cls-21"
+               d="m 200.24,264.88 a 1.75,1.75 0 0 1 1.73,-1.74 v -3.95 a 1.74,1.74 0 0 1 0,-3.47 V 253 H 185 v 2.77 a 1.75,1.75 0 0 1 0,3.47 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2.05 h 17 v -2.07 a 1.88,1.88 0 0 1 -1.76,-1.82 z" />
+            <rect
+               id="rect1277-3-4"
+               class="cls-22"
+               x="187.60001"
+               y="256.98001"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1279-4-4"
+               class="cls-23"
+               d="m 192,264.49 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,-0.64 v 0 a 0.62,0.62 0 0 1 0.63,0.64 v 0 a 0.58,0.58 0 0 1 -0.63,0.63 z" />
+            <rect
+               id="rect1281-5-3"
+               class="cls-24"
+               x="182.62"
+               y="252.39999"
+               width="21.73"
+               height="16.75" />
+          </g>
+        </g>
+        <g
+           id="g1387-9-4">
+          <g
+             id="g1305-7-3">
+            <g
+               id="g1295-7-6">
+              <rect
+                 id="rect1287-5-2"
+                 class="cls-9"
+                 x="221.88"
+                 y="104.74"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1289-5-3"
+                 class="cls-9"
+                 x="221.88"
+                 y="112.96"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1291-3-7"
+                 class="cls-9"
+                 x="237.45"
+                 y="104.74"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1293-1-5"
+                 class="cls-9"
+                 x="237.45"
+                 y="112.96"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1297-9-9"
+               class="cls-21"
+               d="m 238.16,115.49 a 1.75,1.75 0 0 1 1.74,-1.74 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.76 h -17 v 2.76 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.75,1.75 0 0 1 0,3.47 v 2.06 h 17 v -1.98 a 1.88,1.88 0 0 1 -1.74,-1.81 z" />
+            <rect
+               id="rect1299-5-2"
+               class="cls-22"
+               x="225.52"
+               y="107.59"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1301-1-0"
+               class="cls-23"
+               d="m 230,115.09 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,-0.63 v 0 a 0.61,0.61 0 0 1 0.63,0.63 v 0 c -0.06,0.39 -0.29,0.63 -0.63,0.63 z" />
+            <rect
+               id="rect1303-3-9"
+               class="cls-24"
+               x="220.53999"
+               y="103"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1325-9-2">
+            <g
+               id="g1315-8-5">
+              <rect
+                 id="rect1307-3-1"
+                 class="cls-9"
+                 x="221.88"
+                 y="142.11"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1309-4-8"
+                 class="cls-9"
+                 x="221.88"
+                 y="150.33"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1311-5-6"
+                 class="cls-9"
+                 x="237.45"
+                 y="142.11"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1313-7-5"
+                 class="cls-9"
+                 x="237.45"
+                 y="150.33"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1317-2-4"
+               class="cls-21"
+               d="m 238.16,152.85 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.84 h -17 v 2.76 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.75,1.75 0 0 1 0,3.47 v 2.06 h 17 v -2.06 a 1.75,1.75 0 0 1 -1.74,-1.66 z" />
+            <rect
+               id="rect1319-6-1"
+               class="cls-22"
+               x="225.52"
+               y="144.95"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1321-0-0"
+               class="cls-23"
+               d="m 230,152.46 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 A 0.62,0.62 0 0 1 230,151.2 v 0 a 0.61,0.61 0 0 1 0.63,0.63 v 0 c -0.06,0.31 -0.29,0.63 -0.63,0.63 z" />
+            <rect
+               id="rect1323-7-4"
+               class="cls-24"
+               x="220.53999"
+               y="140.37"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1345-3-0">
+            <g
+               id="g1335-8-1">
+              <rect
+                 id="rect1327-8-4"
+                 class="cls-9"
+                 x="221.88"
+                 y="179.48"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1329-1-4"
+                 class="cls-9"
+                 x="221.88"
+                 y="187.7"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1331-1-0"
+                 class="cls-9"
+                 x="237.45"
+                 y="179.48"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1333-8-9"
+                 class="cls-9"
+                 x="237.45"
+                 y="187.7"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1337-9-4"
+               class="cls-21"
+               d="m 238.16,190.22 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.77 h -17 v 2.77 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2.05 h 17 V 192 a 1.88,1.88 0 0 1 -1.74,-1.78 z" />
+            <rect
+               id="rect1339-1-9"
+               class="cls-22"
+               x="225.52"
+               y="182.32001"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1341-1-1"
+               class="cls-23"
+               d="m 230,189.83 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.63,0.63 0 0 1 0.63,-0.64 v 0 a 0.62,0.62 0 0 1 0.63,0.64 v 0 c -0.06,0.31 -0.29,0.63 -0.63,0.63 z" />
+            <rect
+               id="rect1343-2-3"
+               class="cls-24"
+               x="220.53999"
+               y="177.74001"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1365-8-2">
+            <g
+               id="g1355-6-7">
+              <rect
+                 id="rect1347-9-7"
+                 class="cls-9"
+                 x="221.88"
+                 y="216.77"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1349-8-7"
+                 class="cls-9"
+                 x="221.88"
+                 y="224.99001"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1351-6-6"
+                 class="cls-9"
+                 x="237.45"
+                 y="216.77"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1353-5-4"
+                 class="cls-9"
+                 x="237.45"
+                 y="224.99001"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1357-1-8"
+               class="cls-21"
+               d="m 238.16,227.51 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 1 1 0,-3.47 v -2.77 h -17 v 2.77 a 1.78,1.78 0 0 1 1.5,1.74 1.76,1.76 0 0 1 -1.5,1.73 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2 h 17 v -2 a 1.77,1.77 0 0 1 -1.74,-1.75 z" />
+            <rect
+               id="rect1359-2-6"
+               class="cls-22"
+               x="225.52"
+               y="219.61"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1361-4-2"
+               class="cls-23"
+               d="m 230,227.12 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.63,0.63 0 0 1 0.63,-0.64 v 0 a 0.62,0.62 0 0 1 0.63,0.64 v 0 c -0.06,0.39 -0.29,0.63 -0.63,0.63 z" />
+            <rect
+               id="rect1363-3-6"
+               class="cls-24"
+               x="220.53999"
+               y="215.11"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1385-5-3">
+            <g
+               id="g1375-8-5">
+              <rect
+                 id="rect1367-5-4"
+                 class="cls-9"
+                 x="221.88"
+                 y="254.14"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1369-0-5"
+                 class="cls-9"
+                 x="221.88"
+                 y="262.35001"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1371-5-8"
+                 class="cls-9"
+                 x="237.45"
+                 y="254.14"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1373-6-4"
+                 class="cls-9"
+                 x="237.45"
+                 y="262.35001"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1377-3-6"
+               class="cls-21"
+               d="m 238.16,264.88 a 1.75,1.75 0 0 1 1.74,-1.74 v -3.95 a 1.74,1.74 0 1 1 0,-3.47 V 253 h -17 v 2.77 a 1.75,1.75 0 0 1 0,3.47 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2.05 h 17 v -2.07 a 1.88,1.88 0 0 1 -1.74,-1.82 z" />
+            <rect
+               id="rect1379-5-5"
+               class="cls-22"
+               x="225.52"
+               y="256.98001"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1381-0-0"
+               class="cls-23"
+               d="m 230,264.49 v 0 a 0.62,0.62 0 0 1 -0.63,-0.63 v 0 a 0.63,0.63 0 0 1 0.63,-0.64 v 0 a 0.62,0.62 0 0 1 0.63,0.64 v 0 c -0.06,0.39 -0.29,0.63 -0.63,0.63 z" />
+            <rect
+               id="rect1383-8-6"
+               class="cls-24"
+               x="220.53999"
+               y="252.39999"
+               width="21.73"
+               height="16.75" />
+          </g>
+        </g>
+        <g
+           id="g1489-7-9">
+          <g
+             id="g1407-9-5">
+            <g
+               id="g1397-0-5">
+              <rect
+                 id="rect1389-3-7"
+                 class="cls-9"
+                 x="259.79999"
+                 y="104.74"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1391-5-5"
+                 class="cls-9"
+                 x="259.79999"
+                 y="112.96"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1393-9-4"
+                 class="cls-9"
+                 x="275.37"
+                 y="104.74"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1395-3-9"
+                 class="cls-9"
+                 x="275.37"
+                 y="112.96"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1399-6-0"
+               class="cls-21"
+               d="m 276.08,115.49 a 1.75,1.75 0 0 1 1.74,-1.74 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.76 h -17 v 2.76 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.75,1.75 0 0 1 0,3.47 v 2.06 h 17.08 v -1.98 a 1.89,1.89 0 0 1 -1.82,-1.81 z" />
+            <rect
+               id="rect1401-2-3"
+               class="cls-22"
+               x="263.51999"
+               y="107.59"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1403-8-4"
+               class="cls-23"
+               d="m 267.94,115.09 v 0 a 0.63,0.63 0 0 1 -0.63,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,-0.63 v 0 a 0.61,0.61 0 0 1 0.63,0.63 v 0 c -0.07,0.39 -0.31,0.63 -0.63,0.63 z" />
+            <rect
+               id="rect1405-5-8"
+               class="cls-24"
+               x="258.45999"
+               y="103"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1427-2-3">
+            <g
+               id="g1417-5-6">
+              <rect
+                 id="rect1409-9-0"
+                 class="cls-9"
+                 x="259.79999"
+                 y="142.11"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1411-2-6"
+                 class="cls-9"
+                 x="259.79999"
+                 y="150.33"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1413-7-5"
+                 class="cls-9"
+                 x="275.37"
+                 y="142.11"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1415-7-7"
+                 class="cls-9"
+                 x="275.37"
+                 y="150.33"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1419-6-8"
+               class="cls-21"
+               d="m 276.08,152.85 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.84 h -17 v 2.76 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.75,1.75 0 0 1 0,3.47 v 2.06 h 17.08 v -2.06 a 1.77,1.77 0 0 1 -1.82,-1.66 z" />
+            <rect
+               id="rect1421-3-6"
+               class="cls-22"
+               x="263.51999"
+               y="144.95"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1423-0-1"
+               class="cls-23"
+               d="m 267.94,152.46 v 0 a 0.63,0.63 0 0 1 -0.63,-0.63 v 0 a 0.62,0.62 0 0 1 0.63,-0.63 v 0 a 0.61,0.61 0 0 1 0.63,0.63 v 0 c -0.07,0.31 -0.31,0.63 -0.63,0.63 z" />
+            <rect
+               id="rect1425-0-3"
+               class="cls-24"
+               x="258.45999"
+               y="140.37"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1447-6-2">
+            <g
+               id="g1437-8-6">
+              <rect
+                 id="rect1429-1-8"
+                 class="cls-9"
+                 x="259.79999"
+                 y="179.48"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1431-1-0"
+                 class="cls-9"
+                 x="259.79999"
+                 y="187.7"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1433-3-4"
+                 class="cls-9"
+                 x="275.37"
+                 y="179.48"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1435-5-5"
+                 class="cls-9"
+                 x="275.37"
+                 y="187.7"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1439-9-8"
+               class="cls-21"
+               d="m 276.08,190.22 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 0 1 0,-3.48 v -2.77 h -17 v 2.77 a 1.76,1.76 0 0 1 0,3.48 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2.05 H 277.9 V 192 a 1.89,1.89 0 0 1 -1.82,-1.78 z" />
+            <rect
+               id="rect1441-2-5"
+               class="cls-22"
+               x="263.51999"
+               y="182.32001"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1443-0-2"
+               class="cls-23"
+               d="m 267.94,189.83 v 0 a 0.63,0.63 0 0 1 -0.63,-0.63 v 0 a 0.63,0.63 0 0 1 0.63,-0.64 v 0 a 0.62,0.62 0 0 1 0.63,0.64 v 0 c -0.07,0.31 -0.31,0.63 -0.63,0.63 z" />
+            <rect
+               id="rect1445-2-9"
+               class="cls-24"
+               x="258.45999"
+               y="177.74001"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1467-5-1">
+            <g
+               id="g1457-7-0">
+              <rect
+                 id="rect1449-0-0"
+                 class="cls-9"
+                 x="259.79999"
+                 y="216.77"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1451-9-5"
+                 class="cls-9"
+                 x="259.79999"
+                 y="224.99001"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1453-0-0"
+                 class="cls-9"
+                 x="275.37"
+                 y="216.77"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1455-6-1"
+                 class="cls-9"
+                 x="275.37"
+                 y="224.99001"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1459-0-1"
+               class="cls-21"
+               d="m 276.08,227.51 a 1.75,1.75 0 0 1 1.74,-1.73 v -4 a 1.74,1.74 0 1 1 0,-3.47 v -2.77 h -17 v 2.77 a 1.78,1.78 0 0 1 1.5,1.74 1.76,1.76 0 0 1 -1.5,1.73 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2 h 17.08 v -2 a 1.79,1.79 0 0 1 -1.82,-1.75 z" />
+            <rect
+               id="rect1461-9-8"
+               class="cls-22"
+               x="263.51999"
+               y="219.61"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1463-8-2"
+               class="cls-23"
+               d="m 267.94,227.12 v 0 a 0.63,0.63 0 0 1 -0.63,-0.63 v 0 a 0.63,0.63 0 0 1 0.63,-0.64 v 0 a 0.62,0.62 0 0 1 0.63,0.64 v 0 c -0.07,0.39 -0.31,0.63 -0.63,0.63 z" />
+            <rect
+               id="rect1465-9-8"
+               class="cls-24"
+               x="258.45999"
+               y="215.11"
+               width="21.73"
+               height="16.75" />
+          </g>
+          <g
+             id="g1487-8-6">
+            <g
+               id="g1477-1-7">
+              <rect
+                 id="rect1469-1-3"
+                 class="cls-9"
+                 x="259.79999"
+                 y="254.14"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1471-2-3"
+                 class="cls-9"
+                 x="259.79999"
+                 y="262.35001"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1473-7-0"
+                 class="cls-9"
+                 x="275.37"
+                 y="254.14"
+                 width="3.6300001"
+                 height="5.21" />
+              <rect
+                 id="rect1475-2-9"
+                 class="cls-9"
+                 x="275.37"
+                 y="262.35001"
+                 width="3.6300001"
+                 height="5.21" />
+            </g>
+            <path
+               id="path1479-0-7"
+               class="cls-21"
+               d="m 276.08,264.88 a 1.75,1.75 0 0 1 1.74,-1.74 v -3.95 a 1.74,1.74 0 1 1 0,-3.47 V 253 h -17 v 2.77 a 1.75,1.75 0 0 1 0,3.47 v 4 a 1.76,1.76 0 0 1 0,3.48 v 2.05 h 17.08 v -2.07 a 1.89,1.89 0 0 1 -1.82,-1.82 z" />
+            <rect
+               id="rect1481-4-8"
+               class="cls-22"
+               x="263.51999"
+               y="256.98001"
+               width="6.2399998"
+               height="3.79" />
+            <path
+               id="path1483-3-0"
+               class="cls-23"
+               d="m 267.94,264.49 v 0 a 0.63,0.63 0 0 1 -0.63,-0.63 v 0 a 0.63,0.63 0 0 1 0.63,-0.64 v 0 a 0.62,0.62 0 0 1 0.63,0.64 v 0 c -0.07,0.39 -0.31,0.63 -0.63,0.63 z" />
+            <rect
+               id="rect1485-6-7"
+               class="cls-24"
+               x="258.45999"
+               y="252.39999"
+               width="21.73"
+               height="16.75" />
+          </g>
+        </g>
+      </g>
+      <path
+         id="path1493-9-6"
+         class="cls-25"
+         d="m 326.6,257.14 a 4.66,4.66 0 1 1 4.66,-4.66 4.67,4.67 0 0 1 -4.66,4.66 z m 0,-7.74 a 3,3 0 1 0 3,3 3,3 0 0 0 -3,-3 z" />
+      <path
+         id="rect13872"
+         class="cls-26"
+         d="m 176.21,57.89 h 34.54 A 17.22,17.22 0 0 1 228,75.12 v 0 A 17.23,17.23 0 0 1 210.77,92.35 H 176.21 A 17.23,17.23 0 0 1 159,75.12 v 0 a 17.22,17.22 0 0 1 17.21,-17.23 z" />
+      <ellipse
+         id="ellipse1649-0-6"
+         class="cls-27"
+         cx="173.7"
+         cy="75.120003"
+         rx="6.3499999"
+         ry="6.3400002" />
+      <ellipse
+         id="ellipse1649-0-6-2"
+         data-name="ellipse1649-0-6"
+         class="cls-27"
+         cx="193.48"
+         cy="84.949997"
+         rx="2.3199999"
+         ry="2.3099999" />
+      <ellipse
+         id="ellipse1649-0-6-3"
+         data-name="ellipse1649-0-6"
+         class="cls-27"
+         cx="213.06"
+         cy="75.120003"
+         rx="6.3499999"
+         ry="6.3400002" />
+      <g
+         id="g21580-5-2"
+         data-name="g21580-5">
+        <g
+           id="g21578-0-2"
+           data-name="g21578-0">
+          <g
+             id="g21576-7-2"
+             data-name="g21576-7">
+            <g
+               id="g21574-1-2"
+               data-name="g21574-1">
+              <g
+                 id="connector24pin-3-2"
+                 data-name="connector24pin-3">
+                <path
+                   id="path1124-6-2"
+                   data-name="path1124-6"
+                   class="cls-5"
+                   d="m 356.36,309.64 a 14.11,14.11 0 1 1 -14.14,14 14,14 0 0 1 14.14,-14 z m 0,-5.34 v 0 a 18.83,18.83 0 0 1 18.63,19 v 49.93 h -6.9 a 13.87,13.87 0 0 0 -24.11,0 h -6.42 v -49.9 c 0,-10.18 8.51,-19.03 18.8,-19.03 z" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         id="connector26pin-7-2"
+         data-name="connector26pin-7"
+         class="cls-5"
+         d="m 12.06,372.4 c 0,-1.42 0,-33.72 -0.34,-38.35 H 0.1 v 18.86 a 50.11,50.11 0 0 0 0.13,5.93 15.24,15.24 0 0 0 3.88,8.22 17,17 0 0 0 7.95,5.34 z" />
+      <path
+         id="connector25pin-4-2"
+         data-name="connector25pin-4"
+         class="cls-5"
+         d="m 375.8,373.16 a 7.85,7.85 0 0 0 3.32,-1.66 18.64,18.64 0 0 0 7.3,-9 8.81,8.81 0 0 0 1,-3.76 v -24 H 375.8 Z" />
+      <g
+         id="g21968-4-2"
+         data-name="g21968-4">
+        <g
+           id="g21966-9-2"
+           data-name="g21966-9">
+          <g
+             id="g21964-7-2"
+             data-name="g21964-7">
+            <g
+               id="g21962-0-2"
+               data-name="g21962-0">
+              <g
+                 id="connector19pin-9-2"
+                 data-name="connector19pin-9">
+                <path
+                   id="path1124-3-34-2"
+                   data-name="path1124-3-34"
+                   class="cls-5"
+                   d="m 279.81,309.83 a 14.1,14.1 0 1 1 -14.58,14 c 0,-7.83 6.63,-14 14.58,-14 z m 0,-5.34 v 0 a 19.12,19.12 0 0 1 19.21,19 v 49.87 h -7.12 a 14.51,14.51 0 0 0 -24.84,0 h -6.63 v -49.85 c 0,-10.18 8.78,-19.02 19.38,-19.02 z" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g21978-7-2"
+         data-name="g21978-7">
+        <g
+           id="g21976-4-2"
+           data-name="g21976-4">
+          <g
+             id="g21974-8-2"
+             data-name="g21974-8">
+            <g
+               id="g21972-1-2"
+               data-name="g21972-1">
+              <g
+                 id="connector13pin-7-2"
+                 data-name="connector13pin-7">
+                <path
+                   id="path1124-3-3-0-2"
+                   data-name="path1124-3-3-0"
+                   class="cls-5"
+                   d="m 194.8,309.93 a 14.07,14.07 0 1 1 -14.57,14 c 0,-7.84 6.62,-14 14.57,-14 z m 0,-5.33 v 0 a 19.1,19.1 0 0 1 19.22,19 v 49.78 h -7.13 a 14.52,14.52 0 0 0 -24.84,0 h -6.63 v -49.8 c 0,-10.15 8.78,-18.98 19.38,-18.98 z" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g21988-4-2"
+         data-name="g21988-4">
+        <g
+           id="g21986-2-2"
+           data-name="g21986-2">
+          <g
+             id="g21984-6-2"
+             data-name="g21984-6">
+            <g
+               id="g21982-5-2"
+               data-name="g21982-5">
+              <g
+                 id="connector7pin-4-2"
+                 data-name="connector7pin-4">
+                <path
+                   id="path1124-3-3-3-8-2"
+                   data-name="path1124-3-3-3-8"
+                   class="cls-5"
+                   d="M 108.52,309.45 A 14.18,14.18 0 1 1 94,323.54 14.3,14.3 0 0 1 108.52,309.45 Z m 0,-5.36 v 0 a 19.16,19.16 0 0 1 19.21,19.12 v 50.15 h -7.12 a 14.47,14.47 0 0 0 -24.84,0 h -6.63 v -50.15 a 19.54,19.54 0 0 1 19.38,-19.12 z" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g21998-0-2"
+         data-name="g21998-0">
+        <g
+           id="g21996-9-2"
+           data-name="g21996-9">
+          <g
+             id="g21994-4-2"
+             data-name="g21994-4">
+            <g
+               id="g21992-2-2"
+               data-name="g21992-2">
+              <g
+                 id="connector2pin-4-2"
+                 data-name="connector2pin-4">
+                <path
+                   id="path1124-3-3-8-7-2"
+                   data-name="path1124-3-3-8-7"
+                   class="cls-5"
+                   d="M 32.26,308.9 A 14.18,14.18 0 1 1 17.68,323 14.33,14.33 0 0 1 32.26,308.9 Z m 0,-5.37 v 0 a 19.16,19.16 0 0 1 19.21,19.12 v 50.71 h -7.12 c -2.48,-4.2 -7.12,-7.61 -12.42,-7.61 a 14.42,14.42 0 0 0 -12.42,7.05 l -6.63,-0.15 v -50 a 19.54,19.54 0 0 1 19.38,-19.12 z" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g979-7-4-6">
+        <g
+           id="g949-8-0-2">
+          <g
+             id="g947-0-0-2">
+            <path
+               id="path945-1-4-5"
+               class="cls-28"
+               d="m 30.13,350.77 a 10,10 0 0 1 0.4,-2.93 3.54,3.54 0 0 1 1.1,-1.65 2.82,2.82 0 0 1 1.82,-0.64 2.67,2.67 0 0 1 1.42,0.32 2.94,2.94 0 0 1 1,0.95 6.51,6.51 0 0 1 0.63,1.5 9.83,9.83 0 0 1 0.24,2.37 9.93,9.93 0 0 1 -0.4,2.92 3.84,3.84 0 0 1 -1.1,1.74 2.87,2.87 0 0 1 -1.82,0.63 2.71,2.71 0 0 1 -2.29,-1 6.8,6.8 0 0 1 -1,-4.18 z m 1.27,0 a 6.35,6.35 0 0 0 0.55,3.32 1.68,1.68 0 0 0 1.42,0.79 1.77,1.77 0 0 0 1.42,-0.87 10.12,10.12 0 0 0 0,-6.64 1.71,1.71 0 0 0 -1.5,-0.79 1.55,1.55 0 0 0 -1.34,0.71 8.41,8.41 0 0 0 -0.55,3.48 z" />
+          </g>
+        </g>
+        <g
+           id="g955-2-2-6">
+          <g
+             id="g953-9-2-0">
+            <path
+               id="path951-7-7-3"
+               class="cls-28"
+               d="m 110,355.74 h -1.26 v -8 a 8,8 0 0 1 -1.18,0.86 6.73,6.73 0 0 1 -1.35,0.64 v -1.19 a 6,6 0 0 0 1.79,-1.15 8,8 0 0 0 1.11,-1.35 h 0.79 v 10.19 z" />
+          </g>
+        </g>
+        <g
+           id="g961-7-7-5">
+          <g
+             id="g959-4-5-4">
+            <path
+               id="path957-5-6-2"
+               class="cls-28"
+               d="m 198.57,354.56 v 1.18 h -6.72 a 1.65,1.65 0 0 1 0.16,-0.86 4.6,4.6 0 0 1 0.79,-1.35 17.7,17.7 0 0 1 1.66,-1.58 14.32,14.32 0 0 0 2.21,-2.13 2.33,2.33 0 0 0 0.55,-1.5 1.56,1.56 0 0 0 -0.55,-1.27 1.94,1.94 0 0 0 -1.42,-0.47 1.69,1.69 0 0 0 -1.42,0.55 2.31,2.31 0 0 0 -0.56,1.5 l -1.26,-0.15 a 3.13,3.13 0 0 1 1,-2.22 3.5,3.5 0 0 1 2.29,-0.79 3.12,3.12 0 0 1 2.29,0.79 2.73,2.73 0 0 1 0.87,2 3.11,3.11 0 0 1 -0.24,1.18 7.94,7.94 0 0 1 -0.79,1.27 23.43,23.43 0 0 1 -1.89,1.82 14.51,14.51 0 0 0 -1.43,1.26 c -0.15,0.24 -0.39,0.47 -0.55,0.71 h 5 z" />
+          </g>
+        </g>
+        <g
+           id="g969-1-2-8">
+          <g
+             id="g967-9-7-4">
+            <path
+               id="path963-8-2-7"
+               class="cls-28"
+               d="m 273,353.06 1.26,-0.16 a 3,3 0 0 0 0.71,1.5 1.79,1.79 0 0 0 1.27,0.48 2.17,2.17 0 0 0 2.13,-2.14 1.88,1.88 0 0 0 -2,-2 3.94,3.94 0 0 0 -0.87,0.16 l 0.16,-1.11 h 0.23 a 2.66,2.66 0 0 0 1.42,-0.4 1.42,1.42 0 0 0 0.64,-1.26 1.34,1.34 0 0 0 -0.48,-1.11 2,2 0 0 0 -1.18,-0.47 1.64,1.64 0 0 0 -1.19,0.47 2.44,2.44 0 0 0 -0.63,1.35 l -1.26,-0.24 a 3.13,3.13 0 0 1 1,-2 3,3 0 0 1 2.06,-0.72 3,3 0 0 1 1.5,0.4 4.09,4.09 0 0 1 1.1,0.95 2,2 0 0 1 0.4,1.34 1.92,1.92 0 0 1 -0.32,1.19 2.77,2.77 0 0 1 -1,0.86 2.24,2.24 0 0 1 1.42,0.87 2.81,2.81 0 0 1 0.47,1.66 3.13,3.13 0 0 1 -0.95,2.29 3.36,3.36 0 0 1 -2.44,1 3.09,3.09 0 0 1 -2.22,-0.79 2.58,2.58 0 0 1 -1.26,-2.13 z" />
+            <path
+               id="path965-5-6-8"
+               class="cls-28"
+               d="m 284.29,355.74 -4,-10.19 h 1.42 l 2.61,7.43 c 0.23,0.63 0.39,1.18 0.55,1.66 a 15.35,15.35 0 0 1 0.55,-1.66 l 2.77,-7.43 h 1.34 l -3.95,10.19 z" />
+          </g>
+        </g>
+        <g
+           id="g977-3-2-1">
+          <path
+             id="path971-7-7-8"
+             class="cls-28"
+             d="m 346.86,351.79 v -1.18 h 4.34 v 3.79 a 6.13,6.13 0 0 1 -2.05,1.19 7,7 0 0 1 -2.15,0.41 5.93,5.93 0 0 1 -2.69,-0.63 3.92,3.92 0 0 1 -1.82,-1.9 6.42,6.42 0 0 1 -0.63,-2.68 6.55,6.55 0 0 1 0.63,-2.77 3.85,3.85 0 0 1 1.82,-1.89 5.81,5.81 0 0 1 2.69,-0.64 5.09,5.09 0 0 1 2,0.4 3.12,3.12 0 0 1 1.42,1 3.44,3.44 0 0 1 0.79,1.66 l -1.18,0.31 a 2.82,2.82 0 0 0 -0.55,-1.18 2.92,2.92 0 0 0 -1,-0.71 3.8,3.8 0 0 0 -1.42,-0.24 3.18,3.18 0 0 0 -1.58,0.31 2.68,2.68 0 0 0 -1.11,0.72 4.37,4.37 0 0 0 -0.63,1 5.9,5.9 0 0 0 -0.4,2.06 5.09,5.09 0 0 0 0.48,2.29 3.15,3.15 0 0 0 1.34,1.34 3.91,3.91 0 0 0 1.9,0.47 4.4,4.4 0 0 0 1.73,-0.31 6.45,6.45 0 0 0 1.27,-0.71 V 352 h -3.24 z" />
+          <path
+             id="path973-2-3-8"
+             class="cls-28"
+             d="m 353.1,355.74 v -10.19 h 1.34 l 5.38,8 v -8 h 1.26 v 10.19 h -1.34 l -5.38,-8 v 8 z" />
+          <path
+             id="path975-7-3-9"
+             class="cls-28"
+             d="m 363.37,355.74 v -10.19 h 3.48 a 9.35,9.35 0 0 1 1.81,0.16 4.44,4.44 0 0 1 1.5,0.71 3.83,3.83 0 0 1 1.19,1.74 7.49,7.49 0 0 1 0.39,2.45 8,8 0 0 1 -0.23,2.05 3.81,3.81 0 0 1 -0.71,1.5 3.57,3.57 0 0 1 -0.95,0.95 2.67,2.67 0 0 1 -1.19,0.48 9.72,9.72 0 0 1 -1.66,0.15 z m 1.34,-1.18 h 2.22 a 8.11,8.11 0 0 0 1.58,-0.16 2.65,2.65 0 0 0 0.94,-0.55 2.7,2.7 0 0 0 0.71,-1.27 7,7 0 0 0 0.24,-2 4.36,4.36 0 0 0 -0.55,-2.45 3,3 0 0 0 -1.27,-1.18 4.68,4.68 0 0 0 -1.73,-0.24 h -2.14 z" />
+        </g>
+      </g>
+      <rect
+         class="cls-6"
+         x="52.23"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2192" />
+      <rect
+         class="cls-6"
+         x="61.509998"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2194" />
+      <rect
+         class="cls-6"
+         x="70.790001"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2196" />
+      <rect
+         class="cls-6"
+         x="80.07"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2198" />
+      <rect
+         class="cls-6"
+         x="300.54999"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2200" />
+      <rect
+         class="cls-6"
+         x="309.82999"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2202" />
+      <rect
+         class="cls-6"
+         x="319.10999"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2204" />
+      <rect
+         class="cls-6"
+         x="328.39001"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2206" />
+      <rect
+         class="cls-6"
+         x="129.33"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2208" />
+      <rect
+         class="cls-6"
+         x="138.61"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2210" />
+      <rect
+         class="cls-6"
+         x="147.89"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2212" />
+      <rect
+         class="cls-6"
+         x="157.17"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2214" />
+      <rect
+         class="cls-6"
+         x="166.3"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2216" />
+      <rect
+         class="cls-6"
+         x="214.92"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2218" />
+      <rect
+         class="cls-6"
+         x="224.2"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2220" />
+      <rect
+         class="cls-6"
+         x="233.48"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2222" />
+      <rect
+         class="cls-6"
+         x="242.75999"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2224" />
+      <rect
+         class="cls-6"
+         x="251.89"
+         y="335.5"
+         width="7.6399999"
+         height="37.849998"
+         id="rect2226" />
+      <text
+         class="cls-73"
+         id="text2230"
+         x="264.54999"
+         y="24.43"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.83px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#efea3c">makerbit</text>
+    </g>
+  </g>
+</svg>
