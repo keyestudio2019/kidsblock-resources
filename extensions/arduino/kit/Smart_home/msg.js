@@ -33,8 +33,9 @@ function addMsg (Blockly) {
         KS_judge:'%1 %2 %3',
         LED_CATEGORY: 'LED',
         LED_SET_LED_STATE: 'LED pin%1 out%2',
-        LED_ON: 'open',
-        LED_OFF: 'close',
+        LED_ANALOG: 'LED  %1 analogWrite%2 ',
+        RELAY_CATEGORY: 'Relay',
+        RELAY_STATE: 'relay pin%1 out%2',
         BUZZER_CATEGORY: 'Buzzer',
         BUZZER_TONE: 'Tone PIN#%1 frequency%2',
         BUZZER_TONE_D: 'Tone PIN#%1 frequency%2 duration%3',
@@ -49,6 +50,10 @@ function addMsg (Blockly) {
         LIGHTSENSOR_READ_VALUE: 'read the value of light %1',
         GASSENSOR_CATEGORY: 'Gas',
         GASSENSOR_READ_VALUE: 'read the value of gas %1',
+        STEAMSENSOR_CATEGORY: 'Steam',
+        STEAMSENSOR_READ_VALUE: 'read the value of steam %1',
+        SOILSENSOR_CATEGORY: 'Soil',
+        SOILSENSOR_READ_VALUE: 'read the value of soil humidity%1',
         MOTOR130_CATEGORY: 'Fan',
         MOTOR130_DIGITAL: 'Fan Motor INA#%1 State%2 INB#%3 State%4',
         MOTOR130_ANALOG: 'Fan Motor INA#%1 State%2 INB#%3 analogWrite%4',
@@ -67,7 +72,9 @@ function addMsg (Blockly) {
         LCD_SATE_DISPLAY: 'display',
         LCD_SATE_HIDE: 'hide',
         LCD_STYLE_BLINK: 'blink',
-        LCD_STYLE_NOBLINK: 'no-blink'
+        LCD_STYLE_NOBLINK: 'no-blink',
+        BLE_SERIAL_CATEGORY: 'Read BLE data',
+        BLE_DATA: 'Serial readString Until #',
    
     });
     Object.assign(Blockly.ScratchMsgs.locales['zh-cn'], {
@@ -102,8 +109,9 @@ function addMsg (Blockly) {
         KS_judge:'%1 %2 %3',
         LED_CATEGORY: 'LED',
         LED_SET_LED_STATE: 'LED 接口%1 输出%2 ',
-        LED_ON: '打开',
-        LED_OFF: '关闭',
+        LED_ANALOG: 'LED灯 %1 模拟输出%2',
+        RELAY_CATEGORY: '继电器',
+        RELAY_STATE: '继电器 接口%1 输出%2 ',
         BUZZER_CATEGORY: '无源蜂鸣器',
         BUZZER_TONE: '播放声音 引脚%1 频率%2',
         BUZZER_TONE_D: '播放声音 引脚%1 频率%2 节拍%3',
@@ -118,6 +126,10 @@ function addMsg (Blockly) {
         LIGHTSENSOR_READ_VALUE: '读取接口%1光线强度',
         GASSENSOR_CATEGORY: '气体传感器',
         GASSENSOR_READ_VALUE: '读取接口%1煤气浓度',
+        STEAMSENSOR_CATEGORY: '雨水传感器',
+        STEAMSENSOR_READ_VALUE: '读取接口%1雨水强度',
+        SOILSENSOR_CATEGORY: '土壤湿度传感器',
+        SOILSENSOR_READ_VALUE: '读取接口%1土壤湿度',
         MOTOR130_CATEGORY: '风扇模块',
         MOTOR130_DIGITAL: '风扇模块 INA#%1 电平为%2 INB#%3 电平为%4',
         MOTOR130_ANALOG: '风扇模块 INA#%1 电平为%2 INB#%3 模拟输出值%4',
@@ -136,7 +148,9 @@ function addMsg (Blockly) {
         LCD_SATE_DISPLAY: '显示',
         LCD_SATE_HIDE: '隐藏',
         LCD_STYLE_BLINK: '闪烁',
-        LCD_STYLE_NOBLINK: '不闪烁'
+        LCD_STYLE_NOBLINK: '不闪烁',
+        BLE_SERIAL_CATEGORY: '读取蓝牙信息',
+        BLE_DATA: '接收蓝牙信息 直到接收到#',
         
     });
     return Blockly;

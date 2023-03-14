@@ -219,13 +219,73 @@ function addGenerator (Blockly) {
 
 
     Blockly.Arduino.matrix_iic_init = function (block) {
-        Blockly.Arduino.definitions_[`ks_matrix`] = '#include <Matrix.h>\n'+
-        'Matrix myMatrix(A4,A5);\nuint8_t  LEDArray[8];\n';
-        Blockly.Arduino.setups_['matrix_pin_setup'] = 'myMatrix.begin(112);\n  myMatrix.clear();\n';
+        Blockly.Arduino.definitions_[`matrix`] = '#include <Matrix.h>\n'+
+        'Matrix myMatrix(A4,A5);\nuint8_t  LEDArray[8];';
+        Blockly.Arduino.setups_['matrix_pin_setup'] = 'myMatrix.begin(112);\n  myMatrix.clear();';
         return '';
     };
 
-    Blockly.Arduino.matrix_iic_face = function (block) {
+//****************显示点*******************************
+
+    Blockly.Arduino.matrix_iic_piexl = function (block) {
+        const xVal = Blockly.Arduino.valueToCode(block, 'xVal', Blockly.Arduino.ORDER_ATOMIC);
+        const yVal = Blockly.Arduino.valueToCode(block, 'yVal', Blockly.Arduino.ORDER_ATOMIC);
+        const matrix_state = this.getFieldValue('state');
+
+        return 'myMatrix.drawPixel('+xVal+'-0,'+yVal+'-0,'+matrix_state+');\n';
+    };
+
+//****************显示直线*******************************
+Blockly.Arduino.matrix_iic_drawLine = function (block) {
+    const x0 = Blockly.Arduino.valueToCode(block, 'X0', Blockly.Arduino.ORDER_ATOMIC);
+    const y0 = Blockly.Arduino.valueToCode(block, 'Y0', Blockly.Arduino.ORDER_ATOMIC);
+    const x1 = Blockly.Arduino.valueToCode(block, 'X1', Blockly.Arduino.ORDER_ATOMIC);
+    const y1 = Blockly.Arduino.valueToCode(block, 'Y1', Blockly.Arduino.ORDER_ATOMIC);
+  
+    return `myMatrix.drawLine(${x0}, ${y0}, ${x1}, ${y1},HIGH);\n`;
+};
+
+
+//****************显示长方形*******************************
+Blockly.Arduino.matrix_iic_drawrectangle = function (block) {
+    const x0 = Blockly.Arduino.valueToCode(block, 'X0', Blockly.Arduino.ORDER_ATOMIC);
+    const y0 = Blockly.Arduino.valueToCode(block, 'Y0', Blockly.Arduino.ORDER_ATOMIC);
+    const l1 = Blockly.Arduino.valueToCode(block, 'L1', Blockly.Arduino.ORDER_ATOMIC);
+    const w1 = Blockly.Arduino.valueToCode(block, 'W1', Blockly.Arduino.ORDER_ATOMIC);
+  
+    return `myMatrix.fillRect(${x0}, ${y0}, ${l1}, ${w1},HIGH);\n`;
+};
+
+//****************显示圆形*******************************
+Blockly.Arduino.matrix_iic_drawcircle = function (block) {
+    const x0 = Blockly.Arduino.valueToCode(block, 'X0', Blockly.Arduino.ORDER_ATOMIC);
+    const y0 = Blockly.Arduino.valueToCode(block, 'Y0', Blockly.Arduino.ORDER_ATOMIC);
+    const r0 = Blockly.Arduino.valueToCode(block, 'R0', Blockly.Arduino.ORDER_ATOMIC);
+  
+    return `myMatrix.drawCircle(${x0}, ${y0}, ${r0},HIGH);\n`;
+};
+
+
+//****************显示文本和数字*******************************
+Blockly.Arduino.matrix_iic_showChar = function (block) {
+    const text = Blockly.Arduino.valueToCode(block, 'TEXT', Blockly.Arduino.ORDER_ATOMIC);
+   
+
+    return `myMatrix.setTextSize(1);\nmyMatrix.setTextWrap(false);\nmyMatrix.setTextColor(HIGH);\nmyMatrix.setRotation(0);\nmyMatrix.setCursor(2,0);\nmyMatrix.print(${text});\n`;
+};
+
+
+//****************显示文本和数字滚动*******************************
+Blockly.Arduino.matrix_iic_show_loop = function (block) {
+    const message = Blockly.Arduino.valueToCode(block, 'MESSAGE', Blockly.Arduino.ORDER_ATOMIC);
+    const speed =  Blockly.Arduino.valueToCode(block, 'SPEED', Blockly.Arduino.ORDER_ATOMIC);
+    
+    return `myMatrix.setTextSize(1);\nmyMatrix.setTextWrap(false);\nmyMatrix.setTextColor(HIGH);\nmyMatrix.setRotation(0);\nmyMatrix.scrollMessage(${message},${speed});\n`;
+         
+};
+
+
+Blockly.Arduino.matrix_iic_face = function (block) {
         Blockly.Arduino.definitions_[`1matrix_face`] = 
         'uint8_t matrix_smile[8]={0x00,0x18,0x24,0x00,0x00,0xa5,0xa5,0x42};\n'+
         'uint8_t matrix_front[8]={0x18,0x18,0x18,0x18,0xdb,0x7e,0x3c,0x18};\n'+
@@ -253,18 +313,10 @@ function addGenerator (Blockly) {
         '    }\n'+
         '  }\n'+
         '}\n';
-        
+
         const matrix_face = this.getFieldValue('face');
 
         return 'matrix_display('+matrix_face+');\n';
-    };
-
-    Blockly.Arduino.matrix_iic_piexl = function (block) {
-        const xVal = Blockly.Arduino.valueToCode(block, 'xVal', Blockly.Arduino.ORDER_ATOMIC);
-        const yVal = Blockly.Arduino.valueToCode(block, 'yVal', Blockly.Arduino.ORDER_ATOMIC);
-        const matrix_state = this.getFieldValue('state');
-
-        return 'myMatrix.drawPixel('+xVal+'-0,'+yVal+'-0,'+matrix_state+');\n';
     };
 
     Blockly.Arduino.matrix_iic_refresh = function (block) {
@@ -272,10 +324,8 @@ function addGenerator (Blockly) {
     };
 
     Blockly.Arduino.matrix_iic_clear = function (block) {
-        return 'myMatrix.clear();\n  myMatrix.write();\n';
+        return 'myMatrix.clear();\n';
     };
-
-    
    
 
     return Blockly;

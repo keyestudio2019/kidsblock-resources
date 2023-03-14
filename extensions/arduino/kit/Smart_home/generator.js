@@ -119,6 +119,29 @@ function addGenerator (Blockly) {
         return `digitalWrite(${pin}, ${state});\n`;
 };
 
+Blockly.Arduino.led_analog = function (block) {
+    const pin = block.getFieldValue('PIN');
+
+    const val = Blockly.Arduino.valueToCode(block, 'val', Blockly.Arduino.ORDER_ATOMIC);
+   
+
+    Blockly.Arduino.setups_[`led_s`] = 'pinMode('+pin+', OUTPUT);\n';
+    return 'analogWrite('+pin+','+val+');\n';
+};
+
+
+//Relay
+
+Blockly.Arduino.RelayState = function (block) {
+    //const pin = Blockly.Arduino.valueToCode(block, 'pin', Blockly.Arduino.ORDER_ATOMIC);
+    const pin = block.getFieldValue('pin');
+    const state = this.getFieldValue('state');
+
+    Blockly.Arduino.setups_.relay_init = `pinMode(${pin}, OUTPUT);`;
+
+    return `digitalWrite(${pin}, ${state});\n`;
+};
+
   //buzzer
   
     Blockly.Arduino.buzzer_tone = function (block) {
@@ -187,8 +210,22 @@ Blockly.Arduino['lightSensor_readValue'] = function(block) {
     return [code, Blockly.Arduino.ORDER_ATOMIC];
 };
 
-//GAS
+//Gas
 Blockly.Arduino['GasSensor_readValue'] = function(block) {
+    var arg0 = block.getFieldValue('pin') || 'A0';
+    var code = "analogRead(" + arg0 + ")";
+    return [code, Blockly.Arduino.ORDER_ATOMIC];
+};
+
+//Steam
+Blockly.Arduino['SteamSensor_readValue'] = function(block) {
+    var arg0 = block.getFieldValue('pin') || 'A0';
+    var code = "analogRead(" + arg0 + ")";
+    return [code, Blockly.Arduino.ORDER_ATOMIC];
+};
+
+//Soil
+Blockly.Arduino['SoilSensor_readValue'] = function(block) {
     var arg0 = block.getFieldValue('pin') || 'A0';
     var code = "analogRead(" + arg0 + ")";
     return [code, Blockly.Arduino.ORDER_ATOMIC];
@@ -296,6 +333,11 @@ Blockly.Arduino['GasSensor_readValue'] = function(block) {
         }
 
         return code;
+    };
+
+    Blockly.Arduino.ble_serial = function (block) {
+        // return 'Serial.readStringUntil(\'#\');\n';
+        return ['Serial.readStringUntil(\'#\')', Blockly.Arduino.ORDER_ATOMIC];
     };
 
    

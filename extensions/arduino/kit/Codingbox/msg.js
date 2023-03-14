@@ -49,11 +49,16 @@ function addMsg (Blockly) {
         LM35_READ_TEMPERATURE: 'LM35 read temperature PIN: %1',
        
         MATRIX_IIC_CATEGORY: 'Matrix HT16K33',
-        MATRIX_IIC_INIT: 'Init HT16K33 Matrix',
-        MATRIX_IIC_FACE: 'HT16K33 Matrix display face%1',
-        MATRIX_IIC_PIEXL: 'HT16K33 Matrix X Axis%1 Y Axis%2 State%3',
-        MATRIX_IIC_REFRESH: 'HT16K33 Matrix refresh',
-        MATRIX_IIC_CLEAR: 'HT16K33 Matrix clear',
+        MATRIX_IIC_INIT: 'Init  Matrix',
+        MATRIX_IIC_PIEXL: ' Matrix X Axis%1 Y Axis%2 State%3',
+        matrix_iic_DRAWLINE: 'Martix draw line x0: %1 y0: %2, x1: %3 y1: %4',
+        matrix_iic_DRAWRECTANGLE: 'Martix draw rectangle x: %1 y: %2 :width %3 length: %4',
+        matrix_iic_DRAWCIRCLE: 'Martix draw circle x: %1 y: %2 :radius %3 ',
+        matrix_iic_SHOWCHAR: 'Martix show char or number: %1',
+        matrix_iic_SHOW_LOOP: 'Martix loop show : %1 speed: %2',
+        MATRIX_IIC_FACE: 'Martix display image %1',
+        MATRIX_IIC_REFRESH: 'Matrix refresh',
+        MATRIX_IIC_CLEAR: 'Matrix clear',
     });
     Object.assign(Blockly.ScratchMsgs.locales['zh-cn'], {
         KS_VARIABLE_LABEL:'变量类型',
@@ -102,12 +107,17 @@ function addMsg (Blockly) {
         LM35_CATEGORY: 'LM35温度',
         LM35_READ_TEMPERATURE: '读取LM35温度值 引脚：%1',
         
-        MATRIX_IIC_CATEGORY: '8*8点阵',
-        MATRIX_IIC_INIT: '初始化 HT16K33点阵',
-        MATRIX_IIC_FACE: 'HT16K33点阵 显示%1',
-        MATRIX_IIC_PIEXL: 'HT16K33 点阵显示点 X轴%1 Y轴%2 电平为%3',
-        MATRIX_IIC_REFRESH: 'HT16K33点阵 刷新显示',
-        MATRIX_IIC_CLEAR: 'HT16K33点阵 清屏',
+        MATRIX_IIC_CATEGORY: '点阵HT16K33',
+        MATRIX_IIC_INIT: '初始化 点阵',
+        MATRIX_IIC_PIEXL: '点阵屏显示点 X轴%1 Y轴%2 电平为%3',
+        matrix_iic_DRAWLINE: '点阵屏绘制直线 x0: %1 y0: %2, x1: %3 y1: %4',
+        matrix_iic_DRAWRECTANGLE: '点阵屏绘制长方形 x: %1 y: %2 宽: %3 长: %4',
+        matrix_iic_DRAWCIRCLE: '点阵屏绘制圆形 x: %1 y: %2 半径: %3 ',
+        matrix_iic_SHOWCHAR: '点阵屏 显示字符或数字: %1',
+        matrix_iic_SHOW_LOOP: '点阵屏 滚动显示: %1 速度: %2',
+        MATRIX_IIC_FACE: '点阵屏 显示图片%1',
+        MATRIX_IIC_REFRESH: '点阵屏 刷新显示',
+        MATRIX_IIC_CLEAR: '点阵屏 清屏',
     });
     return Blockly;
 }

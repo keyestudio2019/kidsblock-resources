@@ -366,7 +366,7 @@ function addBlocks (Blockly) {
                         type: 'field_image',
                         src: motor130IconUrl,
                         width: 50,
-                        height: 50
+                        height: 27
                     }
                         
                 ],
