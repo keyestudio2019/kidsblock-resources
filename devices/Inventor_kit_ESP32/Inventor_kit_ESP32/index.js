@@ -3,9 +3,9 @@ const Inventor_ESP32 = formatMessage => ({
     deviceId: 'Inventor_arduinoEsp32',
     manufactor: 'keyestudio',
     leanMore: 'https://wiki.keyestudio.com/',
-    iconURL: 'asset/Inventor.png',
+    iconURL: 'asset/Inventor.jpg',
     description: formatMessage({
-        id: 'Inventor.description',
+        id: 'InventorESP32.description',
         default: 'Inventor Starter kit for ESP32',
         description: 'Description for the Inventor Starter kit for ESP32'
     }),
@@ -17,8 +17,8 @@ const Inventor_ESP32 = formatMessage => ({
     internetConnectionRequired: false,
     launchPeripheralConnectionFlow: true,
     useAutoScan: false,
-    connectionIconURL: 'asset/Inventor_big.svg',
-    connectionSmallIconURL: 'asset/Inventor_small.svg',
+    connectionIconURL: 'asset/inventoresp_big.svg',
+    connectionSmallIconURL: 'asset/inventoresp_small.svg',
     programMode: ['upload'],
     programLanguage: ['block', 'cpp'],
     tags: ['kit'],

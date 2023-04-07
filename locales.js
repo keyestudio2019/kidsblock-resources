@@ -1,6 +1,7 @@
 module.exports = {
     'en': {
-        'Inventor.description':'Inventor Starter Kit',
+        'InventorESP32.description':'Inventor Starter Kit for ESP32',
+        'Inventor.description':'Inventor Starter Kit for Arduino',
         'UnoMax.description':'UnoMax Development Board',
         'Smarthome.description':'Smart Home kit for Arduino',
         'Super_starter_kit.description':'Super Starter Kit for Arduino',
@@ -133,8 +134,8 @@ module.exports = {
 
     },
     'zh-cn': {
-       
-        'Inventor.description':'发明家学习套装',
+        'InventorESP32.description':'基于ESP32的发明家学习套装',
+        'Inventor.description':'基于Arduino的发明家学习套装',
         'UnoMax.description':'UnoMax 开发板',
         'Smarthome.description':'基于Arduino的智能家居学习套装',
         'Super_starter_kit.description':'基于Arduino的超级学习套装',

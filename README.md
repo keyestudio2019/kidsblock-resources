@@ -1,5 +1,8 @@
 V1.6.4:
-add Smart home for Arduino<br>
+
+add Inventor kit for Arduino<br>
+add Smart home kit for Arduino<br>
+add ESP32 Inventor kit <br>
 add 8833 motor driver module<br>
 add Ips331ap baro pressure sensor<br>
 add paj7620 gesture recognition sensor<br>
