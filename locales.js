@@ -1,5 +1,7 @@
 module.exports = {
     'en': {
+
+        'SmartfarmESP32.description':'Smart Farm Kit for ESP32',
         'InventorESP32.description':'Inventor Starter Kit for ESP32',
         'Inventor.description':'Inventor Starter Kit for Arduino',
         'UnoMax.description':'UnoMax Development Board',
@@ -134,6 +136,7 @@ module.exports = {
 
     },
     'zh-cn': {
+        'SmartfarmESP32.description':'基于ESP32的智慧农场套装',
         'InventorESP32.description':'基于ESP32的发明家学习套装',
         'Inventor.description':'基于Arduino的发明家学习套装',
         'UnoMax.description':'UnoMax 开发板',

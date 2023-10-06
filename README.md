@@ -1,3 +1,8 @@
+
+Kidsblock1.1.4 version will no longer be updated online. Please click the link below to download the latest Kidsblock2.0 version.
+Windows 64-bit system:https://www.kidsblock.cn/Down/KidsBlock.exe
+Mac os system:https://www.kidsblock.cn/Down/KidsBlock-MACOS.dmg
+
 V1.6.4:
 
 add Inventor kit for Arduino<br>
